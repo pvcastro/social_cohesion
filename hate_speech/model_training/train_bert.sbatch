@@ -10,17 +10,17 @@
 #SBATCH --mail-type=END
 #SBATCH --mail-user=mt4493@nyu.edu
 
-#MODEL_TYPE=$1
+MODEL_TYPE=$1
 ##WITH_NON_INEQ_US=$3
 
 TIMESTAMP=$(date +%s)
 JOB_ID=${SLURM_JOB_ID}
 
-#if [[ ${MODEL_TYPE} == "bert" ]]; then
-#  MODEL_NAME="allenai/longformer-base-4096"
-#elif [[ ${MODEL_TYPE} == "bigbird" ]]; then
-#  MODEL_NAME="google/bigbird-roberta-base"
-#fi
+if [[ ${MODEL_TYPE} == "bert" ]]; then
+  MODEL_NAME="DeepPavlov/bert-base-cased-conversational"
+elif [[ ${MODEL_TYPE} == "bigbird" ]]; then
+  MODEL_NAME="google/bigbird-roberta-base"
+fi
 
 #echo ${MODEL_TYPE}
 #echo ${MODEL_NAME}
