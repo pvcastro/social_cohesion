@@ -8,12 +8,8 @@ import numpy as np
 from sklearn import metrics
 from sklearn.preprocessing import LabelBinarizer
 from scipy.special import softmax
-from datetime import datetime
-import pytz
 from scipy import interp
-from random import randrange
 from pandas.api.types import is_string_dtype
-import time
 
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(name)s -   %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -28,6 +24,7 @@ def get_args_from_command_line():
     parser.add_argument("--model_name", type=str, default='DeepPavlov/bert-base-cased-conversational')
     parser.add_argument("--timestamp", type=str)
     parser.add_argument("--output_dir", type=str)
+    parser.add_argument("--num_train_epochs", type=int, default=20)
     args = parser.parse_args()
     return args
 
