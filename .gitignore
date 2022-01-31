@@ -1,0 +1,5 @@
+/hate_speech/model_training/runs/
+/hate_speech/model_training/cache_dir/
+/hate_speech/model_training/.ipynb_checkpoints/
+__pycache__/
+/hate_speech/confusion_matrices/

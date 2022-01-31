@@ -25,6 +25,11 @@ def get_args_from_command_line():
     parser.add_argument("--timestamp", type=str)
     parser.add_argument("--output_dir", type=str)
     parser.add_argument("--num_train_epochs", type=int, default=20)
+    parser.add_argument("--batch_size", type=int, default=8)
+    parser.add_argument("--data_path", type=str)
+    parser.add_argument("--learning_rate", type=float, default=4e-5)
+    parser.add_argument("--warmup_steps", type=int, default=0)
+    parser.add_argument("--seed", type=int, default=42)
     args = parser.parse_args()
     return args
 
@@ -164,34 +169,40 @@ if __name__ == '__main__':
     args = get_args_from_command_line()
     logger.info(f'Args: {args}')
     # load data
-    data_path = '/scratch/mt4493/nigeria/code/social_cohesion/hate_speech/labels'
-    df = pd.read_csv(os.path.join(data_path, 'labels_v1.csv'))
+    df = pd.read_csv(args.data_path)
     num_labels = len(df['labels'].unique())
     train_df = df.sample(frac=0.7, random_state=0)
     eval_df = df.drop(train_df.index).reset_index(drop=True)
     train_df = train_df.reset_index(drop=True)
     # define paths and args
-    output_dir = args.output_dir
+    output_dir = f"{args.output_dir}/{args.model_name.replace('/', '-')}"
     path_to_store_model = prepare_filepath_for_storing_model(output_dir=output_dir)
     path_to_store_best_model = prepare_filepath_for_storing_best_model(path_to_store_model)
     SLURM_JOB_ID = get_env_var('SLURM_JOB_ID', 1)
     classification_args = {
-        'train_batch_size': 8,
+        'train_batch_size': args.batch_size,
+        # 'gradient_accumulation_steps': 4,
         'overwrite_output_dir': True,
         'evaluate_during_training': True,
-        'save_model_every_epoch': True,
-        'save_eval_checkpoints': True,
+        'save_model_every_epoch': False,
+        'save_eval_checkpoints': False,
         'output_dir': path_to_store_model,
         'best_model_dir': path_to_store_best_model,
         'evaluate_during_training_verbose': True,
         'num_train_epochs': args.num_train_epochs,
+        "learning_rate": args.learning_rate,
+        "warmup_steps": args.warmup_steps,
+        # "max_seq_length": 512,
+        # "warmup_ratio": 0.2,
+        # "scheduler": "constant_schedule",
+        "do_lower_case": False,
         "use_early_stopping": True,
         "early_stopping_delta": 0,
         "early_stopping_metric": "eval_loss",
         "early_stopping_metric_minimize": True,
         "early_stopping_patience": 5,
         "tensorboard_dir": f"runs/{SLURM_JOB_ID}/",
-        "manual_seed": 0}
+        "manual_seed": args.seed}
     model = ClassificationModel(args.model_type, args.model_name, num_labels=num_labels, use_cuda=True,
                                 args=classification_args)
     # Train the model
@@ -216,8 +227,7 @@ if __name__ == '__main__':
     #Save evaluation results on eval set
     if "/" in args.model_name:
         args.model_name = args.model_name.replace('/', '-')
-    path_to_store_eval_results = os.path.join('/scratch/mt4493/nigeria/code/social_cohesion/hate_speech/labels/results',
-                                              f'{args.model_name}_{str(slurm_job_id)}',
+    path_to_store_eval_results = os.path.join(f'{output_dir}_{str(slurm_job_id)}',
                                               f'evaluation.csv')
     if not os.path.exists(os.path.dirname(path_to_store_eval_results)):
         os.makedirs(os.path.dirname(path_to_store_eval_results))
@@ -227,8 +237,7 @@ if __name__ == '__main__':
         "The evaluation on the evaluation set is done. The results were saved at {}".format(path_to_store_eval_results))
     # Save scores
     eval_df['score'] = scores.tolist()
-    path_to_store_eval_scores = os.path.join('/scratch/mt4493/nigeria/code/social_cohesion/hate_speech/labels/results',
-                                             f'{args.model_name}_{str(slurm_job_id)}',
+    path_to_store_eval_scores = os.path.join(f'{output_dir}_{str(slurm_job_id)}',
                                              f'scores.csv')
     if not os.path.exists(os.path.dirname(path_to_store_eval_scores)):
         os.makedirs(os.path.dirname(path_to_store_eval_scores))
