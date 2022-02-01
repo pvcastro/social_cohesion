@@ -23,7 +23,7 @@ from functools import reduce
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument("--predicted_feature", type=str)
+parser.add_argument("--model_folder", type=str)
 parser.add_argument("--input_path", type=str)
 parser.add_argument("--output_path", type=str)
 parser.add_argument("--drop_duplicates", type=bool, help="drop duplicated tweets from parquet files", default=False)
@@ -60,7 +60,7 @@ def get_tokens(tokens_dict, i):
     return tokens
 
 
-def inference(onnx_model, model_dir, examples, feature):
+def inference(onnx_model, model_dir, examples):
     quantized_str = ''
     if 'quantized' in onnx_model:
         quantized_str = 'quantized'
@@ -109,16 +109,16 @@ def inference(onnx_model, model_dir, examples, feature):
         start_build_label = time.time()
         torch_onnx_output = torch.tensor(ort_outs[0], dtype=torch.float32)
         print(torch_onnx_output)
-        if feature == 'sexism':
-            onnx_logits = F.softmax(torch_onnx_output, dim=1)
-            logits_label = torch.argmax(onnx_logits, dim=1)
-            label = logits_label.detach().cpu().numpy()
-            #         onnx_inference.append(label[0])
-            onnx_inference.append(onnx_logits.detach().cpu().numpy()[0].tolist())
-            total_build_label_time = total_build_label_time + (time.time() - start_build_label)
+        # if feature == 'sexism':
+        onnx_logits = F.softmax(torch_onnx_output, dim=1)
+        logits_label = torch.argmax(onnx_logits, dim=1)
+        label = logits_label.detach().cpu().numpy()
+        #         onnx_inference.append(label[0])
+        onnx_inference.append(onnx_logits.detach().cpu().numpy()[0].tolist())
+        total_build_label_time = total_build_label_time + (time.time() - start_build_label)
     #         print(i, label[0], onnx_logits.detach().cpu().numpy()[0].tolist(), type(onnx_logits.detach().cpu().numpy()[0]) )
-        elif feature == 'empathy':
-            onnx_inference.append(torch_onnx_output.item())
+    #     elif feature == 'empathy':
+    #         onnx_inference.append(torch_onnx_output.item())
         # break #DEBUG
 
     end_onnx_inference_batch = time.time()
@@ -205,9 +205,7 @@ print('#files in paths_to_random', len(paths_to_random))
 
 tweets_random = pd.DataFrame()
 
-best_model_folder_dict = {'empathy_buechel': 'DeepPavlov-bert-base-cased-conversational_12707622_seed-0',
-                          'empathy_hosseini': 'hosseini_DeepPavlov-bert-base-cased-conversational_14483944_seed-0',
-                          'sexism': 'DeepPavlov-bert-base-cased-conversational_12710622_seed-0'}
+
 
 TOTAL_NUM_TWEETS = 0
 for file in paths_to_random:
@@ -243,8 +241,7 @@ for file in paths_to_random:
 
     # print('\n\n!!!!!column', column)
     loop_start = time.time()
-    best_model_folder = best_model_folder_dict[args.predicted_feature]
-    model_path = os.path.join('/scratch/mt4493/training_prosociality/trained_models', args.predicted_feature, best_model_folder, 'models', 'best_model')
+    model_path = os.path.join('/scratch/mt4493/nigeria/trained_models', args.model_folder, 'models', 'best_model')
 
     print(model_path)
     onnx_path = os.path.join(model_path, 'onnx')
@@ -257,8 +254,7 @@ for file in paths_to_random:
     start_time = time.time()
     onnx_labels = inference(onnx_model=os.path.join(onnx_path, 'converted-optimized-quantized.onnx'),
                             model_dir=model_path,
-                            examples=examples,
-                            feature=args.predicted_feature)
+                            examples=examples)
 
     print('time taken:', str(time.time() - start_time), 'seconds')
     print('per tweet:', (time.time() - start_time) / tweets_random.shape[0], 'seconds')
@@ -291,12 +287,8 @@ for file in paths_to_random:
 
     # print('!!all_columns_df', all_columns_df.head())
     # print('!!shapes', all_columns_df.shape, [df.shape for df in all_predictions_random_df_list])
-    if args.predicted_feature == 'empathy_buechel':
-        predictions_random_df.columns = ['score']
-    elif args.predicted_feature == 'empathy_hosseini':
-        predictions_random_df.columns = ['_', 'score']
-    elif args.predicted_feature == 'sexism':
-        predictions_random_df.columns = ['_', 'score']
+
+    predictions_random_df.columns = ['_', 'score']
     predictions_random_df = predictions_random_df[['score']]
     predictions_random_df.to_parquet(
         os.path.join(final_output_path,

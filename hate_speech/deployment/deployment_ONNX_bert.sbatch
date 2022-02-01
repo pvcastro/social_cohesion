@@ -10,14 +10,12 @@
 #SBATCH --mail-user=mt4493@nyu.edu
 #SBATCH --output=outfiles/jobarray_deployment_%j.out
 
-PREDICTED_FEATURE=$1
-RESUME=$2
-RESUME_FOLDER=$3
+MODEL_FOLDER=$1
 
 JOB_ID=${SLURM_ARRAY_JOB_ID}
 
-INPUT_PATH=/scratch/spf248/training_prosociality/data/interacting_users_table
-OUTPUT_PATH=/scratch/mt4493/training_prosociality/data/tweets/interacting_users/${PREDICTED_FEATURE}_scored
+INPUT_PATH=/scratch/spf248/twitter/data/social_cohesion/NG_communities
+OUTPUT_PATH=/scratch/mt4493/nigeria/data/inference/${MODEL_FOLDER}
 
 OUTPUT_MODELS=${OUTPUT_PATH}/output
 OUTPUT_LOGS=${OUTPUT_PATH}/logs #DEBUG
@@ -35,7 +33,7 @@ module purge
 
 singularity exec --overlay /scratch/mt4493/twitter_labor/code/envs/singularity/inference/env.ext3:ro \
 	    /scratch/work/public/singularity/cuda11.1-cudnn8-devel-ubuntu18.04.sif \
-	    /bin/bash -c "source /ext3/env.sh; python /scratch/mt4493/training_prosociality/code/twitter_social_preferences/code/training_impact/classification/deployment/deployment_ONNX_bert.py --input_path ${INPUT_PATH} --output_path ${OUTPUT_MODELS} --predicted_feature ${PREDICTED_FEATURE} --resume ${RESUME} > ${OUTPUT_LOGS}/${SLURM_JOB_ID}.log"
+	    /bin/bash -c "source /ext3/env.sh; python /scratch/mt4493/nigeria/code/social_cohesion/hate_speech/deployment/deployment_ONNX_bert.py --input_path ${INPUT_PATH} --output_path ${OUTPUT_MODELS} --model_folder ${MODEL_FOLDER} --resume ${RESUME} > ${OUTPUT_LOGS}/${SLURM_JOB_ID}.log"
 #module load anaconda3/2020.02
 #
 #source /scratch/spf248/twitter/virtualenvs/mexico_virtualenv/bin/activate
