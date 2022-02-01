@@ -20,6 +20,6 @@ module purge
 
 singularity exec --overlay /scratch/mt4493/twitter_labor/code/envs/singularity/inference/env.ext3:ro \
 	    /scratch/work/public/singularity/cuda11.1-cudnn8-devel-ubuntu18.04.sif \
-	    /bin/bash -c "source /ext3/env.sh; python3 /scratch/mt4493/training_prosociality/code/twitter_social_preferences/code/training_impact/classification/deployment/onnx_model_conversion.py \
+	    /bin/bash -c "source /ext3/env.sh; python3 /scratch/mt4493/nigeria/code/social_cohesion/hate_speech/deployment/onnx_model_conversion.py \
       --model_name ${MODEL_NAME}"
 
