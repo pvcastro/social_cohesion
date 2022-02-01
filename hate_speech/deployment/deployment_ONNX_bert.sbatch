@@ -17,7 +17,7 @@ RESUME=$2
 JOB_ID=${SLURM_ARRAY_JOB_ID}
 
 INPUT_PATH=/scratch/spf248/twitter/data/social_cohesion/NG_communities
-OUTPUT_PATH=/scratch/mt4493/nigeria/data/inference/${MODEL_FOLDER}
+OUTPUT_PATH=/scratch/mt4493/nigeria/data/inference/${MODEL_FOLDER}_${JOB_ID}
 
 OUTPUT_MODELS=${OUTPUT_PATH}/output
 OUTPUT_LOGS=${OUTPUT_PATH}/logs #DEBUG
