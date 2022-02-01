@@ -11,6 +11,8 @@
 #SBATCH --output=outfiles/jobarray_deployment_%j.out
 
 MODEL_FOLDER=$1
+RESUME=$2
+
 
 JOB_ID=${SLURM_ARRAY_JOB_ID}
 
