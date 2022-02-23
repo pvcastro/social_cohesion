@@ -3,3 +3,4 @@
 /hate_speech/model_training/.ipynb_checkpoints/
 __pycache__/
 /hate_speech/confusion_matrices/
+.idea
