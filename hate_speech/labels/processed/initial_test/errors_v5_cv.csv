@@ -1,0 +1,942 @@
+index,labels,text,original_file,score,predicted,fold
+54,2,@olise_c @USEmbassyAbuja @Mazianozie @NigAirForce @USAfricaCommand @SierraNevCorp @embraer Oh my God...Mr cockroach...pls are the Boko haram Christians?...why do you have to internationalize your stupidity... Do your Biafra thing without lies pls.,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.08002366729475305, 0.519785476938145, 0.40019085576710184]",1,0
+403,1,@channelstv The solution is very simple . Support the igbo masses to restore biafra then peace will return to the region. The igbos want equal rights and justice. COCONUT HEAD GOVERNORS,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.07600549767052736, 0.3454063987160569, 0.5785881036134158]",2,0
+526,0,"RT @Beautiful_Nubia: We're supposed to think that the problems with Nigeria are killer Fulani herdsmen, rabblerousing Yoruba thug-statesmen�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.33152002081529236, 0.09664284634185613, 0.5718371328428514]",2,0
+509,2,"RT @General_Somto: For Days Now, The Nigerian Armed Forces Has Failed To Arrest Or Track Down The Killer Fulani Herdsmen That Slaughtered O�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.6769480265743973, 0.06126757516687472, 0.26178439825872785]",0,0
+224,2,"RT @Amaka_Ekwo: Biafra : No Election In Anambra, Igbo Leaders Are Liars � IPOB Insists, Reveals What Nnamdi Kanu Discussed With... https://�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.8996241064852883, 0.03816125624938237, 0.062214637265329484]",0,0
+422,0,"RT @jummaiiu: The way some southern Nigerians view northern Nigerians &amp, Islam is the same way colonialists viewed Africans� barbaric. Among�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.36520119356321373, 0.11269298418301846, 0.5221058222537679]",2,0
+367,2,"43 farmers slaughtered &amp; the northern governors are not running around for security meetings.
+
+They are concerned with caging their women, being a religious fanatic &amp; social media control. 
+
+Daris God oooooo",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.6563581978343362, 0.1058992238192625, 0.23774257834640133]",0,0
+153,0,"@realFFK It has been long since I realized @Femi is a moron...
+Of course president can suspend MTN,DSTV n SHOPRITE?But the question is what are the consequences?
+Do you know the  majority of Nigerians working in such companies are southerners?
+MTN----Yoruba (Obj engineered everything)
+?",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.2100061971249174, 0.4494943878540428, 0.3404994150210397]",1,0
+276,2,RT @Omambala_Chuks: #RT @Amaka_Ekwo: RT @DeclanIfeanyi1: At Ikare Junction in Owo Ondo State where four Fulani herdsmen fully armed to the…,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.835316895501976, 0.04058494178942781, 0.12409816270859628]",0,0
+375,2,Malo (hausa/fulani) guys can be like to fine sha! #justsaying,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.7494904909032128, 0.05870463181079777, 0.19180487728598944]",0,0
+347,1,"@Laurestar Hasten generalization; 
+
+Yoruba (Yahoo herdsmen) 
+Yoruba(Ritualist Herdsmen) 
+Hausa (Embezzled/stealing Herdsmen) 
+Hausa (Ritualist Herdsmen) 
+Igbo ( Drug dealers Herdsmen) 
+Igbo (Ritualist Herdsmen) 
+Igbo (419 Herdsmen) 
+Yoruba (Agbero/stealing Herdsmen)
+Edo(Asewo Herdswomen)",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.7991789850134603, 0.04990630921605327, 0.1509147057704865]",0,0
+137,1,"@APCNigeria Testing propanganda...
+Lie Mohammed passed
+Testing the herdsmen...
+The Fulanis passed
+Price of bag of rice nko...#yeye",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.42720131295978486, 0.17030273146451702, 0.4024959555756979]",0,0
+31,1,"You don't want to see Fulani herdsmen or any resemblance of cow in your vicinities but you are the first to shout ""mama Nkechi, nyem ikwobi"" whenever you get to your famous joint. 
+
+Mumu.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.08931651195016606, 0.28858131550115795, 0.6221021725486761]",2,0
+115,1,@BABESWODUMO___ You know wetin dey make me laugh pass ... Goggle translate koh leh translate yoruba ati igbo.... Makes this whole trading of words more interesting 😂... Didirin dato,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.847290288930742, 0.059257189352992214, 0.09345252171626575]",0,0
+25,1,@Usedabackspace After all he don enjoy the pussy for four years so what’s up.  The girl Dey connect with Igbo guy for phone and the mumu Nigga no even know what’s going on. His not smart that’s why the girl left,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.2103582819725572, 0.31454925351093377, 0.47509246451650905]",2,0
+328,1,@LawalabbasLaw @jideidris @hameed_zamani @Chamberlaaiinn @QaribullahAminu @SaharaReporters Guy kai wawa neh!! Am a Muslim and a northerner too but this hisbah people are crossing the line and are nt practicing islam the way it should be.,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.16460686530641322, 0.21780263164533242, 0.6175905030482544]",2,0
+155,0,"@AlZakariyau @Maxwelzdad @CupcakesMercy @bashow Until you denounce your religion ... You can be ashawo and be Christian... No body can unchristian you. If you have not said I denounce Allah...then you are Muslim no matter your crime. If you kill people because of your religion, you are a religious terrorist.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.10968874529816618, 0.34961286917368606, 0.5406983855281479]",2,0
+101,1,"RT @UnilagOlodo: ~&gt; “@datricky77: Hanged then raped to death* ""Olodo: (PICZ) Two Girls Raped And Hanged To Death In Northern India http://t…",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8835256655314074, 0.04309523907344755, 0.07337909539514512]",0,0
+132,2,Which yeye restructuring u c PMB pack all northern Muslims full all the govt institutions in Nigeria n u expect claim for were e no go wok https://t.co/S4ZPPytWIc,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.7317863522104006, 0.09101423715610545, 0.17719941063349398]",0,0
+531,0,@channelstv @evuleogu Is this what you call democracy?  Where armed Islamist roam the streets with guns and Christians are hacked down like animals. History will tell how @channelstv blew the trumpet in support of evil.,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.34380280336577046, 0.20192628794298662, 0.4542709086912431]",2,0
+566,1,RT @ifeycos: The Zoological Animal Kingdom called Nigeria# free Biafra from the British murderous entity called Nigeria https://t.co/64sZYQ…,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.34515525079141846, 0.11606502194850281, 0.5387797272600788]",2,0
+842,2,"@niyorty So a tenant is misbehaving, you’ll now bring tenancy agreement and be referring to sections therein…
+What if he doesn’t grant you audience?
+It’s like you haven’t met some coconut head tenants, especially our Eastern brothers.
+Property management in Lagos is stressful.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.6290686134479038, 0.12465974556964483, 0.24627164098245125]",0,0
+652,0,"@Abdussalami_ This is what your people do to others DAILY - even on others’ lands. When yours kill, rape &amp; destroy, U go dumb; but when they marchet an Igbo, watching him to die in pain, disallowing Igbos to take him to the hospital, but warriors come in to resist the murderers, U play victim.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.3192367685335007, 0.170312868776023, 0.5104503626904761]",2,0
+269,1,@OmoIyaDammy @dearolaa Nigerians are naturally tribalistic. I’m igbo dated my ex for a lil over two years his esan mother said I’m an outcast and can not get married to her son. Don’t be a bastard please.,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.07997918058669587, 0.24379167939027058, 0.6762291400230336]",2,0
+492,1,@SaharaReporters What does Maina have on these fools and why is he enjoying all this? Northern privilege?,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.6200944192365812, 0.10408457468519983, 0.275821006078219]",0,0
+331,0,"@theREALbenORR @IlhanMN My problem with this dumb comment is ""immigrant woman of colour"" as if because she is an immigrant, a woman, and of colour makes her a lesser human being. Alaye, apart from your ""almighty"" America, anywhere else you go, you are considered an immigrant mumu of colour. Onye nzuzu",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.07349831629954869, 0.43298366341944056, 0.49351802028101066]",2,0
+509,1,"@KizzyIfeanyi @officialbasil2 @SirUTI Fuck this is 3much mehhhn...Staning that girl is enough mishap, dashing him this insult has although made him more miserable but a waste of your effort in replying a typical low class fool like him
+#BBNaijaLockdown #layconandErica",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.09166880252799083, 0.437540988882037, 0.47079020858997217]",2,0
+632,1,Did TBoss just called  Gifty a second bitch wen she is d real whore in d house huh...you are the real bitch girl gift is better  #BBNaija,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.1615918952557867, 0.4117336773291635, 0.4266744274150497]",2,0
+124,2,@Egi_nupe_ @SaharaReporters @PoliceNG Who is this idiot? U should have copied the text and translate it to hausa that u understand before typing rubbish.... cockroach!!!!..mtchew,../labels/review/haaya_extra_tweets_labeled.csv,"[0.07369927636991877, 0.5048742492128281, 0.42142647441725334]",1,0
+1194,2,"@thealvinboss @__Readone @OfficialRdunt Yea pessi and the coach, they probably got some secret Argentina gay thing going on",../labels/review/haaya_extra_tweets_labeled.csv,"[0.8625801635738619, 0.04505030031809768, 0.09236953610804029]",0,0
+447,1,"@HAHayatu @quinlateefa @elrufai Well,the gory images of death that came out of Southern Kaduna was and is not politics,the man is a bigot,liar and deceiver, period.",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.10219656271060946, 0.42984362585102376, 0.4679598114383666]",2,0
+173,1,"@MistaPen @Sonni_011 @adamugarba Murtala wanted it but after listening to others that has brain (Murtala is dumb) he dropped the idea, if Biafra is limited to Igbo people, then we are better placed than the North cuz they are landlocked and don't really have anything. Al the resources they claim to have na audio",../labels/review/manu_tweets_round_2_labelled.csv,"[0.6487625040005681, 0.18116929808913002, 0.1700681979103018]",0,0
+530,2,"RT @Real_AdaKing: Until now, the Nigeria military hasn't done anything about this clip that shows Miyetti Allah Killer Fulani Herdsmen With…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.8801008551419127, 0.036503907933229954, 0.08339523692485751]",0,0
+40,1,The most powerful weapon that is used to destroy Africans is tribalism and religion. Idiots in Nigeria can start civil war over who must lead between Christians/Muslims or Igbo/Hausa/Yoruba. In the eyes of your enemies you are all Black and useless. UNITE or PERISH,../labels/review/manu_tweets_round_2_labelled.csv,"[0.05380499822226951, 0.3328300474272906, 0.6133649543504396]",2,0
+147,1,"Crowd funding a terrorist organization, u are a magnetic fool
+Igbos are smart nd industrious people , but IPOB are the pigs and idiotic morons among them
+
+I hate no issues with Igbos , you have issues with Hausas , am not Hausa , I have issues with IPOB pigs 
+Oya find another lie https://t.co/ldohgzSL0u",../labels/review/manu_tweets_round_2_labelled.csv,"[0.05337647746290929, 0.3990508697893169, 0.5475726527477739]",2,0
+132,2,"@von_Bismack If there should ever be another instance of war, the casualties will be greater in the North and amongst the hausas. The igbos are wiser &amp; are all over the world. Access to sophisticated weapons won't be a problem. We will hire mercenaries only to teach those bastards a lesson.",../labels/review/manu_tweets_round_2_labelled.csv,"[0.6460159511756383, 0.07925572615350726, 0.27472832267085445]",0,0
+145,2,@Emmanue10800548 @SaharaReporters Idiot. Call them whatever name they are still ahead of you. Moron who only reason from his anus since his big head is empty. Attack me you moron and stop attacking the innocent ethnic group. Bloody illiterate that think every islamic name is a northern. Slave educated illiterate,../labels/review/manu_tweets_round_2_labelled.csv,"[0.06241391280779457, 0.47142539874251804, 0.46616068844968755]",1,0
+261,2,"RT @mobytoolz: Arewa Twitter slut-shamed a woman  till she apologized for hurting no one. 
+But people were slaughtered in zamfara  and Chib…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.8507456782424158, 0.03971226604776287, 0.10954205570982141]",0,0
+117,1,"RT @Amaka_Ekwo: #IPOB #Biafra #Nigeria 
+
+A Fulani governor condemns the unlawful incarceration of Biafran women but useless Igbo governors…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.8098427351897488, 0.05052286531027639, 0.13963439949997491]",0,0
+619,2,"RT @Capstoneonline: ""The Bible speaks in symbolisms. For instance the whore is a Christian who has fallen spiritually"" Dr @olubijohnson
+#re…",../labels/review/pedro_tweets_round_2_done.csv,"[0.9162765375131345, 0.0336700015248424, 0.05005346096202323]",0,0
+140,0,"@HHaf009 @henryshield Eastern cockroaches? Really feel sorry for folks like u that seems educated but obviously not intelligent, cos u just showed ur level of immaturity!",../labels/review/pedro_tweets_round_2_done.csv,"[0.09265010983143611, 0.42872365908234, 0.4786262310862239]",2,0
+728,2,"@Omoiyaoluko @aproko_doctor That's the way they want it. They forever want to be behind, they want to conserve their primitive way of life. Is that not why Boko Haram is fighting western education. Why herdsmen still carry their cattles around even to major cities without practicing ranching",../labels/review/pedro_tweets_round_2_done.csv,"[0.6335940331611374, 0.08290679432347955, 0.2834991725153832]",0,0
+78,1,@HassanBalaKanam @tesseract___ Na only God will punish this almajiri and janjaweed idiot. Have you asked your parents why the north is the poverty capital of Nigeria? Have you asked your parents why you people are backward in everything.#BuhariMustGo,../labels/review/pedro_tweets_round_2_done.csv,"[0.061254277370781186, 0.32040143604957344, 0.6183442865796455]",2,0
+101,0,"@DoctorEmto That girls hair will never grow again,  and idiots are talking about a slap.",../labels/review/pedro_tweets_round_2_done.csv,"[0.20623319766155665, 0.4389469881069247, 0.3548198142315187]",1,0
+32,1,"Lol @kmerit: No, buh RETARD day""@Priscii_G: Is today STUPID QUESTION DAY???????? @amanzecares: @Priscii_G babe are you a lesbian?""""""",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.1273784503810324, 0.3961068760753928, 0.47651467354357496]",2,0
+5,1,@Meeiynalicious Sister. Goan meet that muslim scholar and tell him he should goan recheck the holy book. Making stupid statements about that can destroy a nation,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.5466867847339946, 0.21392887734800867, 0.2393843379179966]",0,0
+249,1,@IsaTochukwu Nwannne.... Ibu ezigbote bastard.... U better as an atheist than muslim....... Nwanne.... Ibu ezigbote akpa amu aturu,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.05155609537817103, 0.3426513350528925, 0.6057925695689363]",2,0
+14,1,@SaharaReporters @GarShehu The stupid Garba Ewu should respect southern governors and respect the peoples decisions too.,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.1725923143230975, 0.3559567383389884, 0.4714509473379141]",2,0
+747,1,"@EuginhoCortez You spoilt it with ethnic bigotry. What is wrong is wrong and it's an act that deserves corrections.. I've seen Yoruba meat sellers assault ladies, including slapping their bums in the name of improper dressing.",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.18635024809897063, 0.2875610916418792, 0.52608866025915]",2,0
+355,2,"@fatee_b_ Is the generality believe of a section behaviour, just as we believed one section or zone of the country like money if he or she do otherwise, you will hear �Most� yenyenen or pure Hausa girl put on Bum short and crop top on the street of kano to cinema u will hear most yenyen..",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.8804669858603476, 0.045582092564383586, 0.07395092157526884]",0,1
+190,1,@Royalty7th @atiku @officialmaimuna So if am jobless Hausa goat I bet u are worse Dan me.incompetent lame bitch..yhu just sit in ur various dirt cribs Nd open ur disjointed mandible stinky pig.i just pity d parent dat gave birth to u.wast of sperm.u all underestimate we d northerners.i take shit frm nobdy,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.05621306732324549, 0.402582177821948, 0.5412047548548067]",2,1
+484,1,"RT @beloved9ty: God gave the three main tribes in Nigeria 3Idiots
+
+Yoruba: Adeyinka Grandson
+Igbos: Nnamdi Kanu
+Hausa: Adamu Garba
+
+Wikiped�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.895691587776837, 0.03733240695637344, 0.06697600526678943]",0,1
+348,0,Ahmed musa a northerner just made us proud as an educated northerner. Stop the primitive way of making herdsmen perpetual illiterates and relegated people without future. Encourage private modern ranch farms. Another Ahmed musa can emerge from them.,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.18234784809328933, 0.21829508683942378, 0.5993570650672869]",2,1
+10,2,"He is stupid na.""@Stephynnie: Lmaooo.easy on igbo gals na @Desola_123: A typical igbo Girl Cn sell hr Father's proprty 2 buy bleachin Cream.",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.225686984082526, 0.3886215707588037, 0.3856914451586703]",1,1
+354,2,"If you want a big bum go and study what Southern African women eat that make them thick.
+Run from all forms of Dr Anu. This is less expensive too.",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.860700568843426, 0.05286320874627076, 0.08643622241030324]",0,1
+9,1,Why are you guys vexing over a tribal bigot like Mr Jags as regards his tribal profiling of 5 stupid Igbo guys who robbed a Dubai store? His job entails being an APC tribal troll to fan the embers of hate and war between Igbo v Yoruba online. That's his life mission. Ignore him https://t.co/1VAdmhN4yc,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.15547864674123973, 0.36044115605230137, 0.4840801972064588]",2,1
+62,2,"""@Dmusicnerd: Ode.. @TWEETORACLE: Yoruba people or pigs?""�""Igbo people or cockroaches",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.6960572495450901, 0.07569271434687601, 0.22825003610803382]",0,1
+255,1,"@Emmanuelanibe2 @AyemiTj @ARIDICA_INC @treatpworld @Oladapomikky @Alex_Houseof308 Let's take it easy guys, no religion is perfect
+We Christians have our loopholes too, same with the Muslims and others
+So let's not deviate from the bone of contention here which are
+1.That chief that wanna kill himself with food before fasting and
+2.That werey wey dey aso rock😏",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8085787184385519, 0.07335977010037519, 0.11806151146107292]",0,1
+42,2,"@channelstv @sunrisedailynow @chamberlainusoh @GimbaUmarCTV This man @elrufa is a fool, if Christians were to behave like Muslims, they will start burning houses.
+Mad religious begot.
+efulefu. Aturu",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.06826799958632529, 0.4811012987511844, 0.45063070166249025]",1,1
+355,2,"@channelstv And the Senior Agbero of the North(SAN 😏), product of a skewed quota system, subtly threatens the Igbos and in their(North's) usual manner transfers aggression to 1 tribe out of the whole south; and anyone still wonders why Biafra agitation keeps gaining momentum? #MadPeople",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.7878689737997716, 0.06938316779569523, 0.14274785840453313]",0,1
+166,1,"@barrylovesu @benisilva3 @Theresa11311762 @MaziNnamdiKanu At your age, you should mature enough to contribute to public opinion, the concept was about ""Biafra land"" instead out of stupidity you decided to insult the women in Edo by calling them ashawo and I gave a better answer with facts",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.6292785509539167, 0.2089119503829577, 0.16180949866312563]",0,1
+261,1,"RT @DrOlufunmilayo: Adeyinka Grandson is yoruba.
+Adamu Garba is hausa.
+Nnamdi Kanu is igbo.
+
+Awon werey meta.
+
+You see that madness is not…",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8418333384281008, 0.05927939331997487, 0.09888726825192444]",0,1
+279,2,"Yesterday was unforgotten inccidents dat took away peoples live in Akungba-Akoko. Oh lord, We seek your define intervention in Ondo state nd also thank u for sparing the lives of our comrades as they were attacked by Fulani herdsmen few minutes ago along Owo Ogbese Akure road 2da",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.7500484887822608, 0.06976537706731208, 0.18018613415042709]",0,1
+178,1,"Indeed, any Yoruba person speaking against Chief Sunday Igboho is OMO ALE and a coward. I even think God IS AGAINST anyone in Nigeria who's not happy with what this Yoruba leader and true son is doing to emancipate Yoruba people from the herdsmen. https://t.co/Ykm7ns1gRI",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.3579043016976849, 0.2231520834546394, 0.41894361484767567]",2,1
+341,1,"#Karambanin Akuya, ai kune fulani herdsmen. Wawaye kawai! https://t.co/7IqiY52YgB",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.09984296890564262, 0.20541538302197773, 0.6947416480723796]",2,1
+475,2,"@gimbakakanda I think this stereotypes flowed down from the travails of the civil war, in a period when leaders from all regions sought to demonize other regions, to their people. Same applies to the way Hausas use Nyamiri and Beereebe. Racism and hate are built on such foundations.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8626828473956138, 0.0454090391712516, 0.09190811343313454]",0,1
+270,2,"The man from Kano regard himself as bakane. The man from Zaria was bazazzage. The man from Katsina was bakatsine. The kingdoms were at war with each other. They were Hausas, they were Muslims, they were killing each other. The Yoruba were Ijebu, Owo, Ijesha, Akoko, Egba.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8661284044317363, 0.043248513294219595, 0.0906230822740438]",0,1
+330,2,"@adamugarba When they want something that'll benefit them, they remember that the Northern Christians are part of them and are one😂
+WAWA!
+Ba ku da ko mutunci a arewa. Tsinennu banza yan kaya.
+He's afraid that if the youths in the North should start theirs, it'll be a bloodbath. RAGO!",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.7151003096614784, 0.09532442820357163, 0.18957526213494993]",0,1
+19,2,@Magajibnw1 @Adeyipeter1 @MobilePunch You are an Aboki who knows the SS and the SE more than the people who are from there. Do you think we southerners especially the Igbos are as brain dead as the people from the North who are easily brainwashed by religion and propaganda? You think I don't know history? Mumu man 🤣,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.09453251806038912, 0.5259743648470211, 0.37949311709258976]",1,1
+160,2,"Arnt u supposed to b watching Football ""@Misturr_E_: I don't knw why Yoruba girls can like to do ashawo???""",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.6591608362576994, 0.0958930195898825, 0.24494614415241808]",0,1
+241,1,South Eastern governors and leaders might be the most useless things since the first slice of sliced bread.,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.7838800204062059, 0.06716986593985576, 0.14895011365393832]",0,1
+223,1,"@Wotazo_com You are very correct........ Imagine useless, brainless and jobless people carrying placards on trivia issue that had no substantial evidence but all the idiots kept mute when it comes to boko harram, fulani heads men, kidnapping, and host of others. We celebrates lies in NIGERIA",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.10131031361447596, 0.28561842009387806, 0.613071266291646]",2,1
+450,1,"Liar- _-RT""@MeeemaTy: Two :) Hausa &amp; Mwaghavul RT @Adeola_Cule: How Many Language(s) Do you Speak fluently?""",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.7288769096924328, 0.12752861962974762, 0.14359447067781958]",0,1
+36,0,@MemeCentralNG This kind of stupid post  must be from terrorists and herdsmen supporters of Buharist who are bent on misleading Nigerians! It's null and void and of no effect period.,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.0762981025339098, 0.4195731618639799, 0.5041287356021102]",2,1
+304,2,"@DailyPostNGR Asked by a man who is supposed to be tending to the failure of his parental responsibilities. Right in your life, your child became a gay and that doesn't bother u? Moron!",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.2583635849502785, 0.40295538340949044, 0.33868103164023117]",1,1
+247,1,"Muslims Preachers have taken the lead! 
+
+""Get your pVC and through this Administration full of bastards..."" 
+
+WHAT IS THE NAME OF THIS MALAM? https://t.co/AK1n947QsX",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.5630393174256848, 0.0956684457655375, 0.3412922368087777]",0,1
+689,1,"RT @IamFinero: :'( ""@chinwegil: Bance is a Hybrid between a Female Ostrich and a male Vulture.. #OkBye""",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.8554185696989982, 0.05228288282958727, 0.09229854747141435]",0,1
+590,1,"@kinzydayzy @AgnesNwokike @MaziNnamdiKanu Is not by force to be a Nigerian 
+
+We don't want Nigeria
+All we want and  dream is Biafra
+
+VP slut is not freedom",../labels/review/haaya_extra_tweets_labeled.csv,"[0.802049919967566, 0.07925874274946694, 0.11869133728296696]",0,1
+367,1,Thug comment: Remi Tinubu displays disgusting arrogance Aisha Yesufu https://t.co/o5x45V2kVv via @@dailyblastng Biafra,../labels/review/haaya_extra_tweets_labeled.csv,"[0.2429780345320414, 0.3717657736099372, 0.38525619185802157]",2,1
+718,1,"@Classykay777 @_abdulrosheed @lurrenz2015 Kenny what answer do you need leave nepotism and embrace a millanium brain and stop been primitive, we are now in modern society. And do note alit of igbos work in this esterblisment",../labels/review/haaya_extra_tweets_labeled.csv,"[0.332934342303941, 0.2771602034763173, 0.38990545421974165]",2,1
+693,1,"Please avoid my ""back"", I'm not gay. In any case, people like you end up being fed to vultures https://t.co/Xbjqia5P8E",../labels/review/haaya_extra_tweets_labeled.csv,"[0.11469311498092603, 0.4182005774897084, 0.4671063075293655]",2,1
+529,1,RT @Princesnide: @MaziNnamdiKanu The country zoo is totally messed up because those old fool's and they still don't want let biafra go http�,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.08270473044889783, 0.287402096764942, 0.6298931727861603]",2,1
+571,2,RT @pali_xox: Wow Muslim men really be wearing shorts above their knees??? Smh sluts.,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.5550968835946829, 0.10850740774497723, 0.3363957086603397]",0,1
+399,2,"Do you see how stupid you are??? I guess not Cos this jealousy has blinded you. Go play with your age mates BABY girl.... run along. 
+@oluwapelumii__ there are levels to this shit so let her be https://t.co/JEPBU524xO",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.11854393489674947, 0.49399714816877166, 0.38745891693447887]",1,1
+455,0,u r liars @SaharaReporters .it does not make sense. both of them are Yoruba. ur fabrications this days don't make sense at all https://t.co/6jBLzZN74O,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.13567328477965176, 0.5070497133577514, 0.3572770018625969]",1,1
+258,2,@realdanielnweke @uncleifedapo Christian 'brothers' and painting every 21st century woman as a slut is like 5 and 6.,../labels/review/manu_tweets_round_2_labelled.csv,"[0.44863283394998654, 0.2046482603056111, 0.34671890574440256]",0,1
+44,1,"@BiafraGadi @Amaka_Ekwo @NkirukaNistoran @NkemdiMary @EmekaGift @radiobiafralive @EmekaIhedioha Some idiots are councillors are saying Biafra cannot give any order. That they cannot stop anyone from movement, but I ask them - If Fulani threatens you, where do you run to or can you challenge anyone of them? The FLAG must fly and there is nothing anyone can do about it! Fools",../labels/review/manu_tweets_round_2_labelled.csv,"[0.1656954504095681, 0.35344215138408663, 0.4808623982063454]",2,1
+139,1,"Some bastards from his Okeogun region don't wish Sunday Igboho well.
+This man, in company of the conventional security agents flushed the invading Fulani herdsmen out of Kisi, Igbeti and Igboho forests   last year and we still have ingrates from our region who see his efforts",../labels/review/manu_tweets_round_2_labelled.csv,"[0.21019460766353357, 0.19842607591801903, 0.5913793164184473]",2,1
+324,0,"Bandits take over Abuja and Kaduna, Terrorist hold sway in Bornu, Fulani herdsmen kidnapping in Enugu while stealing and raping in Ogun state. Niggeria is already destroyed waiting for the final dissolution. All hail Biafra!",../labels/review/manu_tweets_round_2_labelled.csv,"[0.19141066176794796, 0.14342997870467353, 0.6651593595273786]",2,1
+113,1,I really don't know what that macaroni fellow is trying to portray in those useless skits he put online. From objectification of women to promoting weed(igbo) as something good. That boy does not have sense. He talk badly about Nigeria but refuse to blame himself.,../labels/review/manu_tweets_round_2_labelled.csv,"[0.39114556348785, 0.33334664524568697, 0.275507791266463]",0,1
+280,1,"RT @QueenPhoenix33: ""If he ever left me for another girl, I'll turn lesbian and fuck his bitch."" 😫😫😫",../labels/review/manu_tweets_round_2_labelled.csv,"[0.8433124321549311, 0.061328444635874495, 0.09535912320919458]",0,1
+217,1,"No islamic ruling said you cant eat a food cooked by a woman that is not your wife, any ""muslim"" who claim or say so is a LIAR https://t.co/c4UP1oZmQa",../labels/review/manu_tweets_round_2_labelled.csv,"[0.35965726474823456, 0.3178447238004853, 0.32249801145128026]",0,1
+90,1,Southern lips power: Border patrol dogs spend time licking pussies of illegal migrant girls that both girls and dudes make their way without been spotted.,../labels/review/manu_tweets_round_2_labelled.csv,"[0.755667745424567, 0.06053294285810272, 0.18379931171733013]",0,1
+391,1,"@tinkizee2 Let me remind u of 2011 election,  go watch and listen to what buhari stated when addressing group of fulanis, when he said if he didn't win, then its been rig, and when its rig, blood of baboon and dogs will flow, and truely innocents lifes were wasted, both man, woman,...",../labels/review/manu_tweets_round_2_labelled.csv,"[0.729286427223601, 0.09057054584347753, 0.18014302693292136]",0,1
+114,0,@ged they must speak against the north and BH because christians have been killed in churches like cockroaches u know what I mean.,../labels/review/pedro_tweets_round_2_done.csv,"[0.25362275634233156, 0.16327212123562843, 0.5831051224220402]",2,1
+340,0,"@kimistiredofitt Christians are disgusting? 
+This generation smh",../labels/review/pedro_tweets_round_2_done.csv,"[0.28700278744305047, 0.21369933555056358, 0.499297877006386]",2,1
+568,0,"@montithefirst @comandant5 @liamjajitoby Lmaoo So your years of reading the Bible told you to call me a slut abi? That’s just to say that y’all become Christians just to judge other people’s decisions. Small boy, heal",../labels/review/pedro_tweets_round_2_done.csv,"[0.14718700501021828, 0.49020757370888446, 0.3626054212808973]",1,1
+548,2,"In the U.S dogs are the most popular animals, but in Nigeria it is cows, because the Fulanis love their cows so much and they want everyone to love their cow just the way they do.
+No way for RUGA 
+I say no to RUGA
+I will 'peacefully protest' against RUGA settlement if need be.",../labels/review/pedro_tweets_round_2_done.csv,"[0.8281738827615462, 0.05952584783846576, 0.11230026939998801]",0,1
+465,0,"RT @spicykheemy: Lmao""@GbagaunSpotter: Gbagaun sha ""@a_fusigboye: if any girl calls a boy a liar she must be mad Cuz girls liar every se ...",../labels/review/pedro_tweets_round_2_done.csv,"[0.32691571349795484, 0.34990082895149305, 0.32318345755055217]",1,1
+265,1,"@Nig_1stlastborn @olusogaowoeye Arindin omo Ale yoruba ni eleyi, Inu furo Buhari lo ngbe.... For non yoruba = this guy Lawal adebayo is a satisfied bastard and lives in Buhari's rectum... 🙄😌",../labels/review/pedro_tweets_round_2_done.csv,"[0.09892302578933634, 0.4067343988773023, 0.49434257533336146]",2,1
+487,1,"""@Kosi_Isok:BBC is just full of lies, half truths,propaganda and social brainwashing""Wat of Aljazeera? Sentimental fools!Always siding Islam",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.08647929348485969, 0.34877822215506366, 0.5647424843600765]",2,1
+646,2,"@Garba3Dodo @ShehuSani @GovtOfImoState You are a liar, northerners in other region killed, maim, rape and destroy properties.",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.12698420754296227, 0.4610993409541175, 0.41191645150292033]",1,1
+1089,0,@stephameh @omowe__ @Alexcassy @stephen_etubi @Mide0403 @MrLekanAdigun @SalmanDuke @iam_jibola8211 You no dey hear word. Yoruba boys don't know what they call quicky...they will pin you down even if brigade of guards are coming in sirens,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.3414965756745975, 0.256441267907395, 0.40206215641800747]",2,1
+419,0,I want to specifically say that the silence of @UN over the mass murder of defenseless Christians in Southern Kaduna shows the extent to which they are worthless. It�s more convenient for the organization speak in support of LGBT than the mass murder of helpless Africans.,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.11892009222087588, 0.6568371696777027, 0.22424273810142142]",1,2
+142,1,"RT @arafrika: Kenyans; Muslims and Christians came together during #Westgate. In Nigeria, religious morons will trade jabs yet they'll want�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.047693748936023926, 0.3475415840312213, 0.6047646670327548]",2,2
+489,2,Fulani herdsmen declare Jihad in letter to Bishop Oyedepo [VIDEO] https://t.co/OuPGnvgi53,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.827778719068696, 0.029424622053614072, 0.14279665887768983]",0,2
+98,1,@trueNija @SaharaReporters it's APC that unleashed boko haram and their fulani herdsmen on us. APC is playing DOGS and BABOONS politics,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.0287817032338965, 0.34858444330034455, 0.6226338534657591]",2,2
+266,1,@GilbertHaleemah You look like this and you slut-sham Igbo girls??? https://t.co/JU5hBuZXVP,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.19771832607943945, 0.2883112679260779, 0.5139704059944826]",2,2
+376,2,"Fanatics everywhere. Please what makes Arabic language different from Yoruba, Ibo or Hausa language? Where are enslaving ourselves? Education is very important. Religion is being used to cage Northern Nigeria. So sad. https://t.co/I1dBcuTxlq",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.07460326660379023, 0.6873801035567249, 0.23801662983948504]",1,2
+307,2,I hope all the muslims that joined the protest march at COZA will not be mad when Christians do the same at the mosque when a mallam defiles a young girl. #COZASAGA,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8549758517201038, 0.02948511987101632, 0.1155390284088797]",0,2
+349,1,"@kallyjoe @PoliceNG Govt interests didn't send in those protesters That's why the police fuck with them
+
+NURTW Agbero, killer Fulani herdsmen, killer bandits and hoodlums all represent govt interest in one form or another. 
+
+Hence the police inactivity
+
+Nigeria is not worth dying or fighting for.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.04469403799394701, 0.10951706138862002, 0.845788900617433]",2,2
+380,2,"@Omojuwa HIM NEVA SEE ANYTIN, NNAMDI WANTS TO DIVIDE NIGERIA.MY MALO GF LIKES AMALA, MY IGBO GF LIKES SUYA, MY YORUBA GF LIKE KILICHI.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.18604251030528263, 0.4817335754755212, 0.3322239142191961]",1,2
+210,0,"@Etz_abakar @adamugarba Look at a northerner whose people are being decimated by bolo haram here wishing SARS on southern Nigerians.
+People that leave in fear of bandits and terrorists.
+Your time is coming... All enablers of oppression.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.03458967881775766, 0.17892129081431637, 0.786489030367926]",2,2
+135,2,"An accident happened 2 days ago and 5 people died. So ""Channel tv."" Came asking a Yoruba woman how many people died, the yeye woman said only 4 people died with 1 Aboki.😀😀😀😀😀. Is aboki not a human being?",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.848087465695748, 0.07552975939252562, 0.07638277491172626]",0,2
+391,1,RT @YourFavAkh1: Muslim women marrying a kafir dude or one that is atheist when Allah clearly prohibited that in the Quran &amp; the Sunnah of…,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.9125412715538623, 0.023824762978016386, 0.06363396546812117]",0,2
+439,2,"@gsource2019 @aoluwabunmi @YeleSowore We don't need yariba in our fight for biafra, we are capable of our fight, yariba face una fight and let us be.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.2738584700916106, 0.38102792671138386, 0.3451136031970055]",1,2
+442,0,"@Oromedayo @honilatte @legitngnews Yariba = shady and unreliable person, while not talk about abuboku in yariba land, where you use your fellow human to bury your kings. You will believe fake news bsc it has to do with Igbos your imaginary enemy.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.03568878888097128, 0.4735634099874409, 0.49074780113158806]",2,2
+84,2,"Yoruba clan would call this woman ""Agba Iya"" https://t.co/yELf8N0GLX",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.9210965295212681, 0.02476308169548546, 0.05414038878324638]",0,2
+307,1,You put on nose mask while driving wit full AC.... you can only see dos morons like that in a country called Nigeria... thank God I'm from Biafra Ndi (DOT) iwotago Charlie!!!,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.03087157807395346, 0.21825115876834458, 0.7508772631577018]",2,2
+202,0,"@ChifeDr Incidentally, a similar pejorative is used by french #Cameroun in their almost apartheid like treatment of the minority english-speaking #SouthernCameroonians. Les #Biafra, les #Bamenda. Allez chez vous.. in addition to more violent tropes.. dogs, cockroaches, rats",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.2195322029823183, 0.08674485427462314, 0.6937229427430585]",2,2
+1011,0,"RT @toluogunlesi: Dambazau says hobbies include listening to ""Soft English Music and Traditional Hausa Music"" 😎
+
+None of that pangolo jukpa…",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.10491733665316086, 0.6186791687779571, 0.27640349456888197]",1,2
+547,2,"@Destiny92805899 @Neche201 Supporting this carnage openly says more of an animal most ipob sympathizer.. 
+
+Ewu Hausa is much sensible than you . 😂",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.0386629641363173, 0.5759691024966143, 0.38536793336706837]",1,2
+412,0,"This is so so cruel. How many more innocent Nigerians are we gonna lose before this shits comes to a halt. Are SARS and Herdsmen both in a killing contest?The country now is the ""valley and shadow of death""@PoliceNG @segalink . https://t.co/0d883rLUz4",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.09602965954830107, 0.27624764347259373, 0.6277226969791051]",2,2
+34,1,"@instablog9ja @DiceyPrince_ Stupid.
+They'll be legit when dey cut themselves off for d fornication, adultery, paedophilia, scams and other things committed under their umbrella.
+Dey only draw d line when it comes to gays, stupidity.
+African religious fanatics always be doing d most.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.03026295472820711, 0.28095537043765034, 0.6887816748341424]",2,2
+563,1,@Apeiron123 @rosiearc @AntoGriezmann Lmao imagine if animals turn gay no meat and if everyone turns guy we won’t have to worry bout climate change do we? 😂😂😂 cut your duck and turn a priest if you don’t know what to do wit it,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.15635302178599392, 0.3216390285395278, 0.5220079496744782]",2,2
+318,2,@akferragamo1 @SaharaReporters @MBuhari @BashirAhmaad Same way Southerners became deaf and dumb during the Jonathan era...,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.8501429368739362, 0.03578166983053985, 0.11407539329552405]",0,2
+140,1,"@HHaf009 @henryshield Eastern cockroaches? Really feel sorry for folks like u that seems educated but obviously not intelligent, cos u just showed ur level of immaturity!",../labels/review/haaya_extra_tweets_labeled.csv,"[0.395784311307164, 0.3630148030561922, 0.24120088563664377]",0,2
+424,2,"@nabash1983 @Coolgee12 @MobilePunch Ode, he meant real animal like pig, baboon, chimpanzee , etc fulani are most likely 80 percent animal , 10 percent cockroach and 10 percent human",../labels/review/haaya_extra_tweets_labeled.csv,"[0.29320806428547225, 0.36634270274361824, 0.3404492329709094]",1,2
+1038,0,"@godwin_german @JibrinIbrahim17 They should go and kill those that killed them or distroyed their farm product, instead of killing innocent Fulani and burning their houses",../labels/review/haaya_extra_tweets_labeled.csv,"[0.06276789966146192, 0.09740688693534962, 0.8398252134031884]",2,2
+1109,0,"RT @AkiMarlin: BEST VIDEO on the internet today ...
+
+AdaIGBO digging it with her dance step ???
+
+IGBO enwero obele https://t.co/lfWfC11Fom",../labels/review/haaya_extra_tweets_labeled.csv,"[0.05050581141676039, 0.46489657882440044, 0.484597609758839]",2,2
+271,1,@ADROCKSTama1077 @AnayoUranus @DailyPostNGR Oga go to hell and rot... The only bastards that will agree Igbos aren't marginalised are the idiots working for that fool Buhari and then maluus like u and ya papa... Come to the east and repeat that trash make God punish ya mama.,../labels/review/haaya_extra_tweets_labeled.csv,"[0.027976219312226915, 0.37910004890655313, 0.5929237317812199]",2,2
+637,2,"@fjtassone2 @smcdonn4499 @NanHouston1 @mary_pezzulo @thoughtandact @spincity615 @AngelaRasmussen @Pamela_Yap He preaches sugar coated gospel about how Jesus would have supported that community when we all know it is a lie, you can't be a whore and proud then Jesus will support you, you can't be gay and proud then ask for Jesus support. The truth should be told, undiluted.",../labels/review/haaya_extra_tweets_labeled.csv,"[0.2746195996545475, 0.5669433887041656, 0.15843701164128685]",1,2
+726,1,"@Elhay16 People you know are gay. Your kids, relatives, Co workers neighbours, village people etc. some of them are certainly gay! You can choose to remain in ignorance that is sustained by your primitive and deficient mind, which will make you oblivious of the hurt your words and actions",../labels/review/haaya_extra_tweets_labeled.csv,"[0.07795971936762468, 0.25119668057831057, 0.6708436000540648]",2,2
+369,2,"@OgbuefiTochi @McPhersonAzubu2 @ohansfav1 @Onwukamartins2 @david_okpokpor @DeAmy_July @SavvyRinu I'm from Anioma and Anioma belongs to Delta State and South South. Oga unity beggar, please focus on ur biafra and leave other zone alone bcs is very obvious that no one even wants to associate with you. The more you force it the more disgusting you guys becomes.",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.03703776095477504, 0.5458627912382031, 0.417099447807022]",1,2
+325,2,Ki#DPE@tweet_dopeshit: The urge for Money led a Dumb igbo guy to kirikiri for burgling into a blacksmith kitchen in search for a Pot of Gold,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.9055090128695662, 0.02514132372082448, 0.06934966340960928]",0,2
+165,2,@flexyabdul @daily_trust Islamic dog you are. Wait for him. He'll teach you guys a lesson you'll never forget,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.6875595600639417, 0.07469565288303981, 0.23774478705301863]",0,2
+593,1,"RT @xoAminaSheikh: Most Muslims are scared of what Non Muslims think about us, thats cuz most of you are little bitches.",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.040012809518517836, 0.2739056284063641, 0.6860815620751182]",2,2
+346,2,Northerners are definitely given preferential treatment in this country. Disgusting. https://t.co/LlKJPJRs4C,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.6249547816899903, 0.07496893510055232, 0.3000762832094575]",0,2
+404,0,RT @EmekaGift: Catholic Church in Nigeria protest the unabated killings of Christians by Fulani herdsmen and Boko Haram Islamic Extremists.…,../labels/review/manu_tweets_round_2_labelled.csv,"[0.0743840692293847, 0.07806810911037017, 0.8475478216602451]",2,2
+149,2,"@OnAburiWeStand @realFFK @MBuhari @YeleSowore @dadiyata @sambo @sawore Don't be an ashole moron child. You are the fool i have ever seeing. Do you even know the meaning of shiites. Meanwhile,i am not an hausa or a northerner. My people dont beg. We aint the kidnappers you know.",../labels/review/manu_tweets_round_2_labelled.csv,"[0.05218412933888372, 0.6954938459951537, 0.2523220246659625]",1,2
+343,2,"@Officialchike For the fact that we always excellently digress from a major point of a discussion and guilt trip people into apologizing for primitive tribal reasons. Fuck Yoruba, Igbo and Hausa.",../labels/review/manu_tweets_round_2_labelled.csv,"[0.8263899836869881, 0.05262338208566226, 0.12098663422734963]",0,2
+336,0,"Vultures died from eating remnants of cow meat bought from Fulani herdsmen in Agwu LGA, Enugu on 20th July '19 #RUGA #Fulaniherdsmen #Buhari https://t.co/dKwAnLUMkP",../labels/review/manu_tweets_round_2_labelled.csv,"[0.07876401537576132, 0.09688139369190564, 0.8243545909323331]",2,2
+333,1,@Laurestar @Ayourb @Busaayo @cbngov_akin1 @SusanHenshaw50 @irene_achamaja @iyaboawokoya @BryteDude @spychief @Johannxs You are a disgrace to Igbo women. May vultures eat your corpse.,../labels/review/manu_tweets_round_2_labelled.csv,"[0.04170414375952954, 0.4685045470120184, 0.48979130922845204]",2,2
+318,2,"@Bulamacartoons For what I knw from d history of Nigeria , Igbo r well knw with 5 things. Robbery Nd hired killer ,kidnapping,raping of women, 419,prostitution. But we neva pple from d north neva complain about it.they only blive dt in all bad there most be good they blive in one Nigeria bt we",../labels/review/manu_tweets_round_2_labelled.csv,"[0.5502977650774423, 0.06081416896607287, 0.38888806595648484]",0,2
+13,0,"@IgboHistoFacts Ndị Igbo si na akwulu ọtọ tụwa nwanyị ịme, omughi onye nzuzu ọ mụọ onye ara. (If you impregnate a woman while standing, it's either she give birth to a stupid person or she gives birth to a mad person) moral lesson: If you don't do things right the result won't be good",../labels/review/manu_tweets_round_2_labelled.csv,"[0.24826269258901595, 0.17274500220522288, 0.5789923052057612]",2,2
+1031,2,"He is very daft, they go to other states to kill innocent lives. 
+People in turn defend themselves from the so called Fulani’s &amp; he comes out uttering sacrilege with his fish brain.
+
+People thinking like the cows they are fighting for.
+
+Dumb nation🤦🏼‍♀️ https://t.co/XmDZXFXSEx",../labels/review/pedro_tweets_round_2_done.csv,"[0.03174839405445884, 0.5171688861579573, 0.4510827197875839]",1,2
+726,0,"@Elhay16 People you know are gay. Your kids, relatives, Co workers neighbours, village people etc. some of them are certainly gay! You can choose to remain in ignorance that is sustained by your primitive and deficient mind, which will make you oblivious of the hurt your words and actions",../labels/review/pedro_tweets_round_2_done.csv,"[0.07795971936762468, 0.25119668057831057, 0.6708436000540648]",2,2
+379,0,"@jeyleekrane All this groups alqeada ,isis,bolo Haram all are groups with that pretend to be Muslim but they re mostly unbebealivers they just use the name of Islam nd do what ever shit they like",../labels/review/pedro_tweets_round_2_done.csv,"[0.0774157455199291, 0.10638464835782177, 0.8161996061222491]",2,2
+447,0,"@HAHayatu @quinlateefa @elrufai Well,the gory images of death that came out of Southern Kaduna was and is not politics,the man is a bigot,liar and deceiver, period.",../labels/review/pedro_tweets_round_2_done.csv,"[0.05943147703242908, 0.700378481921506, 0.24019004104606506]",1,2
+611,1,"RT @TedOfficialPage: No female wants to be called a bitch, but once you put ""bad"" in front of it, these hoes feel honored.",../labels/review/pedro_tweets_round_2_done.csv,"[0.9258701596251359, 0.026940335740365286, 0.047189504634498836]",0,2
+463,0,@toolzbeib Liar Hard girl hard girl you don open Toto 😂😂😂,../labels/review/pedro_tweets_round_2_done.csv,"[0.05027444537538397, 0.5959478443644417, 0.35377771026017446]",1,2
+66,2,"Your one of the lazy almajiris Buhari talked about, your Emir's whole family was adducted today hundreds killed and your useless excellent intelligence can't track them it's only on christians and Igbos they know how to work useless parasites! https://t.co/ocrvRPL7I8",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.03526808413381559, 0.5008460333943531, 0.4638858824718313]",1,3
+410,1,"RT @gimbakakanda: This is unacceptable, and both Muslims and Christians are guilty of this. When my office was on Mambolo Street, Wuse Zone�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.9327982533146826, 0.025225045766673098, 0.0419767009186443]",0,3
+299,2,"Nigeria speaks about 520 languages and by origin, I am from the Eastern part, born in the Northern half, and live now in the Western side. I am well travelled and learned in it's culture. It's diversity and perplexity, whores and flaws are all I live to write for.",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.9233434823376294, 0.0303254009696309, 0.04633111669273989]",0,3
+517,0,"RT @ChinasaNworu: #Fulani herdsmen kidnappers  at work in Okigwe Imo state , the governors cannot use their Ebubeagu to curtail this Fulani�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.07050230679768205, 0.0917281235945178, 0.8377695696078001]",2,3
+477,0,@iamcardib U just look like hausa fulani,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.0676862973175826, 0.09882016915769677, 0.8334935335247208]",2,3
+295,2,"RT @renoomokri: * For insulting Jesus 
+* Referring to Southern women as �whores�
+* Paying killer herdsmen 
+* Accusing Christians of creatin�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.86414485545638, 0.05039759907437576, 0.08545754546924439]",0,3
+183,2,"Latest News: Transgender women given access to Hampstead Heath ponds
+A campaigner says the policy to allow transgender women to use a women-only pond is ""absolutely disgusting"".
+https://t.co/mIUigo6Ak4
+2019-05-23 13:41:29Z",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.9354255434824178, 0.025395099947701737, 0.03917935656988037]",0,3
+14,1,"RT @thecjpearson: Identity politics is stupid. We don�t need more females, blacks, or gays elected. 
+
+We need more principled, God-fearing�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.9054909533191243, 0.042391753439112896, 0.05211729324176283]",0,3
+228,0,"Whether you are in support if the protests or not, a member of APC or PDP, Muslim or christian, northerners or southerners, we are in it together. 
+Burn the country we will later meet at IPD's camp then we shall realize who the real fool is. 
+#EndBadGoveranceInNigeria 
+#EndsSARS",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.2994008318839206, 0.37422856480107386, 0.3263706033150055]",1,3
+129,1,"@OsosaChris Not even a Southern Christian but a Southern Kaduna Christian from Northern Nigeria, Gov @elrufai would have been joined in the bigotry suit to be filled by the likes of FFK, KUKAH, Middle Belt Forum...etc! 
+Yeye people!",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.5591804072320048, 0.12810360372970084, 0.31271598903829434]",0,3
+113,1,"@Q_Splendor @Adeogun02 @Chukadibia4 @Baruch4ever Mtchew.. didirin.. Hausa, Yoruba, Igbo, everybody knows what’s good for them.. Mak up kit or not, u people r d once always wailing like slaves in their own country, u people r d once always playing d victim card, na ona full Lagos n Kano, always crying, u ppl",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.04371463902319881, 0.18293676645385182, 0.7733485945229494]",2,3
+219,1,"@HQNigerianArmy God punish Una o ,if its fake news then what's the real news tell me,you people can't kill bolo haram or Fulani herdsmen its innocent unarmed Nigerians ur killing shammmmmmmmmmme!!!!!!!!!! On all of you",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.03451156863035427, 0.3225176526697288, 0.642970778699917]",2,3
+216,0,"@SaharaReporters dEy wan carry una go give bolo Haram and Fulani herdsmen so.
+Una beta run oooo🧐",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.05181151470691129, 0.17104870725652196, 0.7771397780365668]",2,3
+28,0,@raja_ranmii1 It happens bro....the dey I fell in love with an Igbo girl...Bros I mumu pass u..the first time I felt I was a fool.,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.23706149722403555, 0.30161890483889925, 0.4613195979370653]",2,3
+82,2,"@Mustapha_twits @segalink Mr oponu afofun gbemu!!! What is the interest of buhari in the East when bokoharram, bandits, ISWAP and herdsmen continue to turn your North to dust? Why didn't he attack them? Is because they're Muslims and the Igbo people are Christians! Next time receive sense before you talk",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.053139901734629, 0.5837147759345152, 0.3631453223308558]",1,3
+157,2,"It is purely IBERIBERISM for Miyetti Allah to threaten the Igbo's &amp; the southerners wit meat supplies. Igbo's are already venturing into cow rearing and ranching. Its just a matter of time, before we rebrand SUYA business too.
+Anagi eji amu eyi ashawo egwu. 
+Nonsense in bracket. https://t.co/tPEUvUP9NP",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.06965721263413689, 0.5015520266133648, 0.42879076075249833]",1,3
+42,1,@NigeriaNewsdesk @NaijaNews As a NIGERIAN I will answer the questions with questions. What was england and the english before 927AD? What was America and Americans  before independence? These are very stupid questions for issues as serious as the biafra agitation. you didn't say where the debate would hold.,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.6927787545274163, 0.21235865384009417, 0.09486259163248938]",0,3
+698,1,RT @biafra_tv: BIAFRA: NIGRIA FINALLY GONE TO THE VULTURES UNDER HITLER BUHARI https://t.co/u3c4UkCX3I https://t.co/F7dzjndqhs,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.10738586252533192, 0.10722867417206922, 0.785385463302599]",2,3
+1040,0,"RT @Joe__Bassey: Here is Oyigbo in Rivers State, where people were massacred last night by Fulani Herdmen.
+#NIGERIAPREVAILS #itisnotfinish…",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.44855582718211984, 0.05639061141221681, 0.4950535614056635]",2,3
+666,1,@damola_ade77 @toluogunlesi @MBuhari May the Corrupt Police extort you. May Boko Haram set your family ablaze. May Herdsmen rape your wife and mother. You diseased buffoon. What Yeye development??,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.04105237575519018, 0.2839876468316252, 0.6749599774131845]",2,3
+26,1,"RT @DOPIEEY: Ure Igbo and u voted Buhari, GOOD! But u must be stupid if u think Buhari will vote an Igboman if ur places wr reversed.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.6898357255704292, 0.20975973731581876, 0.10040453711375219]",0,3
+516,2,"@akaworldwide AKA.... You are a fool and a gay artist, we will get you and roast you like a bush meat, henceforth stay clear from Nigeria today,
+
+Useless artist that doesn't have a hit song since 5yrs.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.045785687483692425, 0.6259095782178655, 0.32830473429844204]",1,3
+305,2,"@acesadam4 @SecPompeo But it's obvious u can embrace LGBTQ.
+sick moron",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.05088517836193826, 0.6735616324368923, 0.2755531892011694]",1,3
+774,2,@TVCconnect  The proponent of indecent dressing is either a gay or a religious fanatic or both. #TVCYOURVIEW,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.5393908741244399, 0.13738190986437654, 0.3232272160111836]",0,3
+406,1,"Imagine someone that made an Lgbtq advocative film was threatened;!!
+
+And you people say no one gives a shit
+
+Werey Dey Disguise #QueerNigerianlivesmatter",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.5411030135157292, 0.11679339847291202, 0.3421035880113586]",0,3
+1213,0,@Westside__god He's gay too🌚,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.13609756139365795, 0.43548394469575735, 0.4284184939105846]",1,3
+75,1,"@Christinehodge2 the more muslims we have condemning barbarism,  the more these idiots get to know the world is against them.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.08185515658573553, 0.21102419320538404, 0.7071206502088806]",2,3
+809,1,"Finally as a Christian??? let the holy ghost be your comforter in times of heart ache and heart break Cos men! If you dont have Him it will be tough, most times the heartbreak is totally avoidable Cos he tells u before hand but you no dey hear word u get  coconut head!",../labels/review/haaya_extra_tweets_labeled.csv,"[0.8295831671171655, 0.08090589163848803, 0.08951094124434651]",0,3
+179,1,"@KadariaAhmed @YeleSowore When myetti allah threaten that they must be given cattle colony or Nigeria will know no peace where was DSS &amp; other buhari's attack dogs?
+Is it bc Sowore is not a fulani?
+WE MUST CONDEMN THIS PRIMITIVE GOVT'S DOUBLE STANDRDS &amp; HYPOCRISY - ITS VERY DISGUSTING",../labels/review/haaya_extra_tweets_labeled.csv,"[0.10883291447566341, 0.21827083694413232, 0.6728962485802041]",2,3
+461,2,RT @DryJokesNG RT @DryJokesNG: The first Nigerian that sold weed was from the South East. That's why it's called igbo. liar,../labels/review/haaya_extra_tweets_labeled.csv,"[0.9261084741663017, 0.028741300223068023, 0.04515022561063023]",0,3
+797,1,"@briandark Nigeria is not a country,but a Zoo filled with Monkeys and baboons.I was not surprised,Okorocha is a disgrace to Igbo nation.",../labels/review/haaya_extra_tweets_labeled.csv,"[0.04788558847351836, 0.36846360296201836, 0.5836508085644634]",2,3
+106,2,RT @Sistasoul: RT @kotibotor: You're an idiot RT @SchBoye: You're slapping God in the face if you're GAY.. RT if you hate it too,../labels/review/haaya_extra_tweets_labeled.csv,"[0.0478878376160488, 0.5972280657918542, 0.3548840965920971]",1,3
+549,2,"RT @Mclawrenceco: They've deployed Fulani people to disrupt the protests, stay safe y'all. People were killed like animals at Apo yesterday�",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.8786087112432687, 0.027534754903571934, 0.09385653385315958]",0,3
+38,2,"@yusuffAzeez16 @SaharaReporters @tundefashola As stupid as you are today is Jan 29 you claimed to have received February salary, can you see what you are doing to yourself by lying and using double standard.Tell me which company pays Feb Salary in Jan? Except for those defending killer herdsmen &amp; online party liars",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.06653893895775864, 0.7366288719868409, 0.1968321890554004]",1,3
+62,0,"STOP SPREADING HATE MSGS! By the way I am IGBO! @mcvaaey Igbos re d scum of d Earth. Jeopardizing d future of Nigerians..kill them all""",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.0472408707853454, 0.11129596654422086, 0.8414631626704338]",2,3
+198,1,"@Somto701 Nothing will happen in Enugu , what exactly are you protesting for in June 12 with the Yorubas? Did they observe sit at home for our Biafra fallen heros with us on 30/31 may? We want Biafra not nonsense June 12 protest shit",../labels/review/manu_tweets_round_2_labelled.csv,"[0.4437381352570194, 0.2354375129563481, 0.3208243517866326]",0,3
+326,1,"RT @G0_NAWAZ_G0: #IndiaWithForces ? Which Rape it's own Women in North Eastern Indian States . 
+#Asam #Manipur #Mizoram #Nagaland https://t…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.9108028531534657, 0.027638487590661908, 0.06155865925587225]",0,3
+501,0,RT @funshographix: If fulani herdsmen burn your house &amp; kill your family. If you retaliate. Govt will arrest you not the fulani herdsmen. I…,../labels/review/manu_tweets_round_2_labelled.csv,"[0.11659701405697206, 0.08426921664012475, 0.7991337693029031]",2,3
+356,0,:) #blessed RT @MzDeeMeaNor: All these hausa girls with small waist n big bum... Nonsense!,../labels/review/manu_tweets_round_2_labelled.csv,"[0.07355666398169851, 0.10733832212534483, 0.8191050138929568]",2,3
+101,1,"@earhmerd @Laurestar @YeleSowore A group of ""fulani herdsmen"" threatened to whole nation and gave 30 days ultimatum.. Neither did you or the president or the buhari dogs say anything or see any wrong in it.. But you have this bullshit to say?! Karma is a bitch!",../labels/review/manu_tweets_round_2_labelled.csv,"[0.06070385348871595, 0.29553014704189856, 0.6437659994693856]",2,3
+425,2,RT @FaruqBashar: If you’re looking at Islam through Northern Nigeria you’d most probably dislike Islam.,../labels/review/manu_tweets_round_2_labelled.csv,"[0.9279709478970308, 0.030896925363410304, 0.0411321267395592]",0,3
+445,2,"RT @savage__diamond: I saw some Hausa Fulani and Northerners feeling happy for the killing of protesters in Edo, Lagos and Aba. They were e…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.9243140679110707, 0.023207641553031337, 0.05247829053589794]",0,3
+524,2,"One idiot blocked me today😂😂😂😂
+The fool from Eastern Nigeria where I have awesome and right thinking humans as friends couldn't hold a simple conversation of why people have a choice by voting Buhari in 2015.
+The Ode thinks I eat off this page, oponu ndi ala osi",../labels/review/pedro_tweets_round_2_done.csv,"[0.06109785129209135, 0.7214237561081864, 0.21747839259972238]",1,3
+576,2,"@itz_PrevinMusic @OdyssonM @MaziNnamdiKanu U talk about condom only, that's the length u must have gone on immortality, at least I represent my root and they are proud of me, you are a dullard, a slave to Fulani grand master, how did they initiate u? Sodomy?
+Slut u are
+Bird of no nest, charlatan!
+Disgrace to the industry",../labels/review/pedro_tweets_round_2_done.csv,"[0.038924493889849934, 0.5516925425392242, 0.40938296357092596]",1,3
+450,0,"Liar- _-RT""@MeeemaTy: Two :) Hausa &amp; Mwaghavul RT @Adeola_Cule: How Many Language(s) Do you Speak fluently?""",../labels/review/pedro_tweets_round_2_done.csv,"[0.0758166063794999, 0.7306557000103373, 0.19352769361016284]",1,3
+1213,0,@Westside__god He's gay too🌚,../labels/review/pedro_tweets_round_2_done.csv,"[0.13609756139365795, 0.43548394469575735, 0.4284184939105846]",1,3
+1194,0,"@thealvinboss @__Readone @OfficialRdunt Yea pessi and the coach, they probably got some secret Argentina gay thing going on",../labels/review/pedro_tweets_round_2_done.csv,"[0.10388553250871024, 0.1668619121729701, 0.7292525553183197]",2,3
+442,0,You ar the biggest Liar... All your comments are baseless and couses of Chaos to our beloved nation.... It is clearly clear that those guys are fighting for their selfish interests not for Muslims and 99% BH victims ar Muslims but u like to creat hatred among us https://t.co/rAeHU4mKlS,../labels/review/pedro_tweets_round_2_done.csv,"[0.064318336410157, 0.726089209421004, 0.20959245416883918]",1,3
+418,1,"The only Arewa artist that is one in a million, unlike those pigs that claim celebs. https://t.co/rM0vBMx1a5",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.12953745580223727, 0.4089644677854222, 0.46149807641234053]",2,3
+53,1,"@ihyi_j @iamUncleMark @ONchris Those charged to be custodian of the south are a party to all the mess happening now, the greed is national, regional and then personal.
+
+Your agitations are valid but those in charge of the fight are worse scum i tell you. 
+
+Nddc directors, min of petroleum etc are southerners.",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.13639707517622088, 0.18927614264725573, 0.6743267821765234]",2,3
+802,0,"""@urchbilz: Female baboon""@durubelle: @urchbilz ""@Questionnier: Cc someone who is shorter than you? #QnA""""""short frog",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.04016627211330797, 0.6030571789187279, 0.35677654896796407]",1,3
+161,1,"@BlewynA @cazyp @miqdaad I'm sorry to say but that's a really dumb thing to do, I can equally pick the New Zealand mosque shooter and say he represent Christianity because he identifies as a Christian. By the way there are Muslims who don't believe what ur friends do, so would you say they aren't Muslims",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.7126459611198943, 0.1557850132185652, 0.13156902566154058]",0,4
+301,2,@AdetolaOlutosin Don't know why people just don't get that we and the northerners all suffer from the same thing and southerners forget that the reason they are christians is because of rape and murder,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.775486464221735, 0.07004890585708659, 0.15446462992117838]",0,4
+411,2,"@tenithetailor 2. She must be chaste and pure from zina. Virginity and purity and Chastity are very scarce if not inexistent amongst the Christian/Jew women today.
+3. She must be from people who do not hate islam, or she must not be a person who hates Islamic teachings
+4. Marrying them should :",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.8993329073792387, 0.03943682992963252, 0.061230262691129]",0,4
+338,2,RT @BiafraHerald: Restructuring Summit: A Gathering Of Vultures To Keep Submitting The Subjugated Easterners To The Ferocious Northern Caba�,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.7827284974344122, 0.058386387054966876, 0.1588851155106208]",0,4
+27,0,"Stereotype would be the end of us
+Men are scum
+Women are sluts
+Hausas are beggars 
+Yorubas are demonic
+Igbos are corrupt
+How many people have you met?
+Stop that nonsense jare https://t.co/5DE0aWkrz4",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.40371186146419774, 0.159024898500817, 0.43726324003498535]",2,4
+124,2,@Laurestar U are a numskull not to know that d comparison for this is to tell ur President to go to a Church to pray. May is a Christian who went to a mosque. Let ur Muslim President go to pray in a Church. Bastard! Which Muslim have u seen calling d Ulama Council stupid names?,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.11052565583424272, 0.4902883891453655, 0.39918595502039167]",1,4
+164,1,"#Buhari Must be ready to attack the whole southern region!!!! This is not 50 years ago, let someone wake him up if he is too dumb. It�s a war again the south not Igbos. He is about to break Nigeria himself. Dumbass!!!#IamIgboToo",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.10558935676044794, 0.43034485464517386, 0.46406578859437814]",2,4
+302,1,"RT @Sir_Ajene: ""@Shamaaani: Aboki! RT""@waptailor: True""@Desola_123: Most gay men in Nigeria are Igbo. #YouQuiz"""" #TeamFollowBack""very true!",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.11785036391294887, 0.34171973494151114, 0.5404299011455399]",2,4
+4,1,"I respect all humans, but angry to anyone who thinks I am inferior (Brit, EU, UN). I can go any length to prove I am not inferior and also that I am special creature from Elohim. I am A Biafran and Biafra I am very proud to be. Stop call us Nigerians or Southern Protectorate! Ewu",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.6492871553126194, 0.13229771034820131, 0.21841513433917928]",0,4
+102,1,See ethnic bigot. His hatred for Northerners cannot be hidden. He has grown to hate the North that he cannot even mention Kaduna in its entirely but chooses to mention only the Southern part. Olodo! Oloshi! Buruku! Wawa! Kazami! https://t.co/acrAdAHyrx,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.16653531429523, 0.36731618248322634, 0.4661485032215436]",2,4
+51,2,RT @TBRVorg: Another big industry for Yorubas in Lagos is church-business centers scanning millions of ndi efulefu Igbos and Biafrans in ge…,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.7273824961481505, 0.05878151699544148, 0.213835986856408]",0,4
+389,2,@FS_Yusuf_ This can only come out from the mouth of a Kafir/Mushrikeen/Munafiqeen. Yoruba Muslim probably.,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.7366067163259047, 0.10225244912707, 0.1611408345470254]",0,4
+1287,0,"@amaka_ekwo his is a confused man for nw , do to d name BIAFRA",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.11411095104654588, 0.37497842669730663, 0.5109106222561473]",2,4
+287,1,"@Egonduokorie Lol i laugh in Biafra, you really don’t know you are a bastard non of your family members is willing to tell you that but I’m telling you for free you be OMO ALE.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.20607971251780718, 0.3535832659859915, 0.4403370214962013]",2,4
+320,0,"@KemiOlunloyo @ArcGazal @jidesanwoolu Make he ask ""the source"" news paper na, Hausa people always acting dumb, illiteracy is at its peak with them",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.10582500207532128, 0.27044811354526227, 0.6237268843794164]",2,4
+175,0,"@yomexng @SamuelOmogor Tell your brothers to go and be selling pig and dogs in the open in Kano. Or they can open beer parlor in Zamfara. Or let them go and be destroying rice in Kebbi. 
+
+Why didn’t they tell the Hausas who sell beans and pepper to leave?",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.21712116153654257, 0.17868622363693987, 0.6041926148265176]",2,4
+111,1,"@vanguardngrnews But they haven't conducted such air strikes to dislodge Boko Haram, bandits and killer herdsmen!
+Na idiots Dem be and na their crafts go kill and destroy then",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.07455075932910399, 0.2270541925645762, 0.6983950481063199]",2,4
+829,1,@mrhafizaziz @oscarbillygreen Igbo men are not like this i repeat igbo men are not like this..Ozo is going tru alot of coconut head depression,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.25888646413053046, 0.26622550285192753, 0.47488803301754223]",2,4
+1198,2,"RT @I_pissVodka: I keep seeing 'im in love with me' 'I do me' 'I date me' 'I am my Boo'
+This gay in the making...HomoSelfie or HomoSelfish …",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.46719915844528154, 0.24223183869105144, 0.2905690028636668]",0,4
+656,1,"@MerhmoudX @Bulamacartoons @DokunOjomo @bulamabukarti Omo, if you fall mugu, they chop you. Meanwhile, tell your terrorist brothers to stop Killing and raping women..anuofia",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.06542887520403244, 0.28654408218587446, 0.6480270426100931]",2,4
+274,2,"If A Girl Asks Her Dad For Money And He Says No, It Means Her Father Doesn't Have. But When She Ask BF And He Says No, He's A Stingy Bastard",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.5529345349020807, 0.17616847555797496, 0.27089698953994434]",0,4
+102,2,@Favour71713799 @ggbrokensilence @tthewallflowerr I don't know what brought INDIAN's into dis mata.  All I said dress well. U can't say u can dress anyhow n don't except d idiots that rape to stay calm.  And my dear don't attribute RAPE to women alone.  Male gender gets raped too..  You can give ur points without insults dear.,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.565696331231907, 0.1978522040141385, 0.23645146475395457]",0,4
+532,1,"@Oben_2020 @EmarIkoro @funshographix The christian crusaders came with peace, with the intention of  helping you access and worship ur maker in a more cleaner way.  Yes they were armed with guns. These weapons were for wild animals but your fathers, multivated by their gods(blood socking demonds) resisted and",../labels/review/haaya_extra_tweets_labeled.csv,"[0.7847476343273867, 0.06219072862516815, 0.15306163704744508]",0,4
+1035,0,RT @pwajok_jane: Plateau state Governor @sblalong  could not send Police men when the Fulani herds men were brutalizing and killing his peo,../labels/review/haaya_extra_tweets_labeled.csv,"[0.33349134203970676, 0.1216852986989182, 0.544823359261375]",2,4
+702,2,"RT @WhitefieldG: If you would walk with God, you will associate and keep company with those that do walk with him�the primitive Christians,�",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.8979482753279673, 0.0410648091341677, 0.060986915537864984]",0,4
+479,1,"@DavidOyedepoMin @BishopDOAbioye If u give God anything less than ur best, u've not regarded Him as God. Don't fool urself &amp; say ""Well, God understands"". If u understand who this God is &amp; what He's given to u, u'll be up &amp; doing. God doesnt relate to all Christians the same way. Some are Sons, others are babes?",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.8730553701162839, 0.05809258561023954, 0.06885204427347649]",0,4
+207,1,Useless and Shameless @BarackObama and @David_Cameron that suports the killing of Christians and dictatorship in nig https://t.co/yrfsuWZg2A,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.07733819222839135, 0.3818820302930074, 0.5407797774786013]",2,4
+136,2,"@SaharaReporters This is for farmers who received N10,000 Trademoni and believed that herdsmen killings will end if @MBuhari gets a second term: ""A cockroach is never innocent in the court of hens""",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.891713553257115, 0.039255755772854964, 0.06903069097002996]",0,4
+211,2,"Presidency To Northern Youths : Thank your stars we are in democracy, 
+
+Me : Useless Govt maybe If not for Democracy you will kill them as you did to IPOB https://t.co/y4cIk8Pews",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.6089116982856848, 0.1220281050655889, 0.26906019664872627]",0,4
+292,1,RT @ChuksMultiP: @fkeyamo You chew stupidity and vomit  foolishness from your mouth.Half brain southern moron.,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.09015008081495074, 0.4535921754380923, 0.456257743746957]",2,4
+819,2,"All these southern senators and honourables keeping mute while all this rubbish is going on should remember that this coconut head generation doesn't forget.
+??",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.8832435051403488, 0.04541432097784546, 0.07134217388180569]",0,4
+800,2,"#GvsG : Baboon grabs female TV reporter�s breast live on air (PHOTO, VIDEO) http://t.co/bw1RCqTn8u Guysversusgurls",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.901645750498838, 0.03862234828766895, 0.05973190121349288]",0,4
+1142,2,"@Pearl38249710 @itsLaycon Yo boss Rita, I made a video asking girls why they FRIENDZONE guys. My only request is you help me drop a like on the video and subscribe. Thanks, it means a lot
+
+https://t.co/Gm9FGLTam1",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.8770674847365351, 0.04962593729770979, 0.07330657796575524]",0,4
+502,0,"@OtunbaCash2 @SportsCenter Adesanya's Yoruba Language translation to English Language ~ ""I will punch you,  you will be surprised; you this dumb/fool""",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.22153670931821137, 0.37647880235525133, 0.4019844883265373]",2,4
+225,1,@SaharaReporters @DrIsaPantami @DavidHundeyin I thank God for being a Muslim .Those who think that the false accusations on Pantami will spoil Islam are fools. ISLAM is the religion of peace . Islam doesn't forbid Muslims to act justly on non Muslims but Christians misunderstood the Islamic belief . https://t.co/MpkEr63B1C,../labels/review/manu_tweets_round_2_labelled.csv,"[0.5760704004038173, 0.16776887665665308, 0.2561607229395294]",0,4
+421,2,RT @APOSTLESULEMAN: Delete Netflix app on your system..unfollow them if you are a true Christian..The movie 'gay jesus' is an insult to chr…,../labels/review/manu_tweets_round_2_labelled.csv,"[0.7517243427811803, 0.10258282002313748, 0.14569283719568213]",0,4
+59,0,"RT @Uwani11: In Nigeria today even if a cockroach is incidentally killed the wailers will say""fulani herdsmen are responsible"".What an iron…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.3806153086568223, 0.20653317463492643, 0.4128515167082513]",2,4
+114,1,"@emem_deen @DrOlufunmilayo Keep quiet if you don't know the history this useless country. Who said the coup was targeted at who? Hausas, Yorubas, Tivs, and Igbos all participated in the coup equally, it was a collective agreement of young military officers to redeem the country. Check their names. Ewu.",../labels/review/manu_tweets_round_2_labelled.csv,"[0.13139037044824473, 0.4317600891238076, 0.4368495404279478]",2,4
+340,2,Re-educate the North. The average Nigerian Northerner doesn’t think like the average Nigerian Southerner. He is less educated. Primitive. Power-oriented. The literacy level in the Northern region is appalling. Choosing an average Northerner to lead has been a bad decision.,../labels/review/manu_tweets_round_2_labelled.csv,"[0.8274689393742167, 0.06946565852760382, 0.10306540209817948]",0,4
+194,2,RT @dese_jerry: Wen U see 2 or 3 yoruba women sitting QUIETLY. 2 thins ar involved. It's either they ar deaf and dumb; OR shit dey catch th…,../labels/review/manu_tweets_round_2_labelled.csv,"[0.8285493988097109, 0.055617871779042906, 0.11583272941124641]",0,4
+45,1,"RT @ternamuse: All those people who used the phrase ""Easter worshippers"" instead of christians, are pathetic scums of the earth.",../labels/review/pedro_tweets_round_2_done.csv,"[0.09336224236303851, 0.31048859275693413, 0.5961491648800271]",2,4
+0,0,"@RealSolaKuti Most senseless tweet and most gullible tweets ......amd before you all open big mouths, I stayed in the North East and I am a Christian. Again, this is the most stupid stweet I have seen ever",../labels/review/pedro_tweets_round_2_done.csv,"[0.11289758130975498, 0.48350946532346706, 0.4035929533667779]",1,4
+206,0,@Dexwhytecast @elrufai aiding the killing of christians who go to worship or even pray 4 d country and useless govt? Gimme a breather.,../labels/review/pedro_tweets_round_2_done.csv,"[0.13357606745243386, 0.41487276815714447, 0.4515511643904218]",2,4
+639,1,"@AishaYesufu If they want to know if they Are doing good as leaders. They should play with Referendum(Biafra, Yorexit) and see if they will come and rig it. This Entity called Nigeria by Lord Lugard's whore is a SCAM",../labels/review/pedro_tweets_round_2_done.csv,"[0.08099515704624125, 0.37114995050486416, 0.5478548924488946]",2,4
+1048,0,@bhig_wye This is a mixture of Ghanaian and fulani haqccent...inshrt the haqcent is turningoneown....,../labels/review/pedro_tweets_round_2_done.csv,"[0.12021237317818581, 0.2387500482894478, 0.6410375785323665]",2,4
+575,1,@Ms_oji you irritate me... I wish I can express that in hausa language you slut,../labels/review/pedro_tweets_round_2_done.csv,"[0.1707848945558111, 0.3934199019680523, 0.4357952034761368]",2,4
+282,1,"@whitenigerian I'm not in support of the killing, but how many of the kidnapping and killing by the herdsmen did you report. You're all corrupt bastards. Speak sense into your president head @whitenigerian",../labels/review/pedro_tweets_round_2_done.csv,"[0.07589975649615802, 0.37304484206343413, 0.551055401440408]",2,4
+711,0,"@nahbins @casmir_uzoma @Hafiz25023187 @SaharaReporters elites will never solve your problem just keep on with your primitive way of approach, you ban alcohol in your state but tomorrow if a Southern governor ban open grazing, hope you won’t cry out, since every state has the right to decide what suit them now 🤷‍♂️🤷‍♂️",../labels/review/pedro_tweets_round_2_done.csv,"[0.15512711632733892, 0.3616512801470639, 0.4832216035255972]",2,4
+65,0,"Men are Scum! Men are Scum!  Why are women still buying attraction oil, so you all want to attract scum bags abi?",../labels/review/pedro_tweets_round_2_done.csv,"[0.09492956688675236, 0.2228838626337316, 0.682186570479516]",2,4
+401,1,"@djsheylex Some dumb ass girls will think this is real shit pfff...like wtf that's a balloon and she let all the air out don't be decive guys pls don't be decive 
+
+Ladies don't kill ursef takin a big dick in cus ah that's a huge lie
+Best 2020 trick HV ever seen 
+@Pornhub hope y'all can see",../labels/review/pedro_tweets_round_2_done.csv,"[0.7212748581388424, 0.12189844149997231, 0.15682670036118526]",0,4
+289,0,"RT @_AdukeAde: Who are the morons saying Education in Islam is Haram?
+
+Are you trying to be funny or you’re just trying to air your stupidi…",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.20870094141462606, 0.41292887878458195, 0.37837017980079196]",1,4
+215,2,@adamugarba tramadol in the system anuofia I don't want to make it a ethnic war but you see this northerners are the real problem this useless country has #EndNigeriaNow #EndSWAT #EndSARS,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.596987845810009, 0.12772819976735006, 0.2752839544226412]",0,4
+350,1,@NGRPresident You are a total disgrace to humanity.  You are disgusting to say the least.  Your genocide against southern Kaduna will not succeed.,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.10875116504472442, 0.43828141808096865, 0.45296741687430686]",2,4
+386,2,@nwamadi01 @Fecomnet @harrisonmbamara Pig always depends on shit... Keep on eating shit the next thing you'll hear boom crude oil available in north boom dangote refinery is ready to work it out boom heart attack on southerners 😂 😂 😂 keep fooling yourself olodo,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.09247006064558472, 0.46074371455129215, 0.4467862248031232]",1,4
+445,1,@cee_kings1 @kulboi4real Lies but you believed your chronic liar Chinua Achebe..He literally plunged the southern part of Nigeria into chaos because of his rubbish propaganda.,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.11370789679931324, 0.41198476351668134, 0.47430733968400557]",2,4
+832,1,@deus_plutus @AdeeyoTemitope Men are experts in blaming women. With his coconut head,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.13192380166835527, 0.4053630517244192, 0.46271314660722546]",2,4
+52,2,"@MaziNnamdiKanu Before I continue, I would like to state that this idiot is ""Imam of Biafra"" he cannot be Imam in Islam because Islam does not Accommodate Homosexuality. https://t.co/XM33NCOW1t",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.0660375189088459, 0.8861646214398572, 0.04779785965129719]",1,5
+86,1,"@EevsfD @KennedyNwogu4 @capo_bbg Yes, let it sink into your skull, no truth Igbo man or woman want to force you into biafra, ok. We are called Igbos, self sufficient not parasite.",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.1000256951436061, 0.0405128217596601, 0.8594614830967338]",2,5
+192,0,"@MusaYakubuMust2 @MaziNnamdiKanu Be careful with your words, igbos didn�t do shit. The first coup was carried out by different set of people from different ethnic groups, the three coups following that were carried out by the Hausa/Fulani.",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.04659548894848576, 0.036058985240445915, 0.9173455258110684]",2,5
+555,2,"RT @ivan_i94: They�re letting a transgender athlete compete in Tokyo but they banned Caster Semenya, a biological woman, from competing in�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.9711198769411384, 0.014588123377432007, 0.014291999681429683]",0,5
+112,2,"@AbuduOfficial @Sin_sombras9 @mahfouz_shehu @yourchargie @OvieNews She's the biggest illiterate I've seen here, very backward and dumb woman living in the past, saying something negative towards a religion she knows nothing about. Am sure she's not even a true Christian. Non sense element kawai tufeyakwa, didirin.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.02134087904348339, 0.5477076311716372, 0.43095148978487957]",1,5
+79,1,@realFFK Eyin kan ya oponu ni sa. Is it my money? Yoruba money? Hausa's money? Ebira's money? It is Niger Deltans' s money. If you like free everyone involved. Just make sure you do not blame Buhari for this.,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.839580958673315, 0.10541993309433742, 0.05499910823234753]",0,5
+278,0,RT @Akinjo: Why is Btw Owo and Akure fast becoming a den of Kidnappers allegedly by Fulani Herdsmen and the Commissioner of Police  of ondo…,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.11739176393584684, 0.026972386651579076, 0.8556358494125741]",2,5
+300,1,"@Marlykar @UchePOkoye @KikesX @AfamDeluxo I was teaching some locals on how to use a system in Aba and I tried to use Umuahia in an example, they spent the next 35 minutes trying to teach me the correct pronunciation of Umuahia, even Eyinmba that I called was wrong. Omo Yoruba, Ibo, Aboki are in the same bracket",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.6724018665955347, 0.037128014873898094, 0.29047011853056726]",0,5
+354,1,"""@pwetty_twetty: !!RT @MssNAWTi__: CLASSY MEN AND WOMEN SUPPORT MUFC! GAYS LESBIAN AND BI SUPPORT ARSENAL! AGBEROS SUPPORT CHELSEA :D""WHAT?",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.02692408450136914, 0.08581560858236754, 0.8872603069162633]",2,5
+384,1,"RT @KarambaMuhammad: I would trust wholeheartedly, an Igbo muslim brother or sister. 
+
+But I will never trust a kafir even if we are born o…",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.7417831482493755, 0.09225756557121488, 0.16595928617940947]",0,5
+53,2,"@AfamDeluxo ...as a Lagos girl, I dey rep....Naija
+
+Iheanacho just Represented by writing his Igbo name and some people will not allow us rest on this Bird app....as an Igbo I can't say I'm a Lagos boy because any Igbo that does that is an Efulefu of the highest order https://t.co/uUeDfJIlLh",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.03644583605938319, 0.8608640463050514, 0.10269011763556536]",1,5
+335,0,"Bomb those criminals out of Wawa,Isawo,Arepo,Mosimi,Igando,Ibafo.It doesn't matter if they are Ijaw,Igbo,Ilaje/Yoruba,Fulani or Urhobo.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.025501049358169617, 0.0702732685033689, 0.9042256821384616]",2,5
+1034,0,"RT @TobbyFancy: 20th of October 2020, NIGERIA army left bokoharam, left kidnappers, left Fulani herds men to kill unarmed peaceful proteste…",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.021030575436041987, 0.040895352037131516, 0.9380740725268264]",2,5
+776,0,"One chance, we voted an herdsman! Not a detribalized leader. We voted a senile, nepotistic fanatic. https://t.co/WDOBPQ9udW",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.07039610140717958, 0.6958634919844037, 0.2337404066084168]",1,5
+1239,2,"Nigeria: Gradually turning into a Rwanda if left unchecked, the ""Killer Herdsmen"" issue.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.9697256834371806, 0.010595312310253345, 0.01967900425256594]",0,5
+343,2,RT @tasldn: Some of you Muslims are THE most judgemental people ever. You say the most disgusting things to your fellow brothers and sister…,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.6228493508486187, 0.06227563775879067, 0.3148750113925907]",0,5
+942,2,RT @Omotolxni: @khadijat_ibrahi My hate for northern people are growing day by day,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.921031311317754, 0.012671574040325394, 0.06629711464192048]",0,5
+1151,0,"RT @xjesswalkerr: hot girls are born in may, june, july and august",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.42552213335731326, 0.12492718236153176, 0.4495506842811551]",2,5
+189,2,"RT @ChifeDr: This is a deliberate anti-Igbo dog whistle by the Attorney-General of the Federal Republic of Nigeria.
+
+And its coming on the",../labels/review/haaya_extra_tweets_labeled.csv,"[0.9638635260542254, 0.023182800630594393, 0.012953673315180386]",0,5
+299,1,RT @thecableng: Soyinka: I never attacked Igbo over election whoever believes I did is a moron http://t.co/N7LfDjMxst via @thecableng,../labels/review/haaya_extra_tweets_labeled.csv,"[0.5476890740930379, 0.4203380655090533, 0.03197286039790904]",0,5
+276,2,@exotiqu33 And all the Beautiful faces in we have in Nigeria some Bastard idiots still choose to be Gay....This life no just balance I swear??????,../labels/review/haaya_extra_tweets_labeled.csv,"[0.1605840596613179, 0.5214179443817099, 0.3179979959569722]",1,5
+1185,2,@fayookunmi He gay,../labels/review/haaya_extra_tweets_labeled.csv,"[0.8910438551261038, 0.04303958221382777, 0.06591656266006829]",0,5
+364,2,Dez peeps lamenting bout this anti-gay Law are really becoming as disgusting as d act itself. Even animals don't do or advice same sex na.,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.18784243446787993, 0.44808738200247467, 0.3640701835296455]",1,5
+78,2,@HassanBalaKanam @tesseract___ Na only God will punish this almajiri and janjaweed idiot. Have you asked your parents why the north is the poverty capital of Nigeria? Have you asked your parents why you people are backward in everything.#BuhariMustGo,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.02852878263831196, 0.8754531340402818, 0.0960180833214061]",1,5
+497,2,"@ugotwitts @BashirAhmaad Don't mind that fool, if it's a Southerner, he will be like forgotten firewood to come and write rubbish",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.04677015169040611, 0.5864302931726998, 0.36679955513689416]",1,5
+1141,2,"RT @UnijosDropOut: Am not a prophet, but I know almost all U.J girls have black BRA... https://t.co/UYtF1QdtfF",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.9656680364869435, 0.010520112252297608, 0.023811851260758823]",0,5
+466,2,"@Laurestar No body should believe this ashawo woman, she's a liar and a political brustitute",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.11032899958741879, 0.8388494582559459, 0.05082154215663521]",1,5
+579,2,"The height of wickedness,is to make your fellow human feel less human.Judging by the unprintable things that slut Erica said to @itsLaycon this night.
+Erica is just like her name in Yoruba ""Eri Ika""?meaning ""see wickedness"",with her swollen belly like Bag of Ijebu Garri.
+#BBNajia https://t.co/FERGa5raN2",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.05942109788222738, 0.7989370518602776, 0.14164185025749496]",1,5
+41,2,@Escokpablow @YNaija : Sanusi is a bloody mad idiot. Would he have done to his fellow hausa muslim fanatic? Fool like him. Boko haram sponsr,../labels/review/manu_tweets_round_2_labelled.csv,"[0.02255304010137961, 0.7773641758774632, 0.20008278402115712]",1,5
+211,0,"@BashirAhmaad You say herdsmen have a right to do business anywhere in Nigeria, but Yoruba men don’t have the right to start pig farms in Sokoto? Kano can regulate Igbo people’s beer parlours in Kano, but Ondo should not regulate killer herdsmen? We want equality or division!
+
+#BuhariTormentor",../labels/review/manu_tweets_round_2_labelled.csv,"[0.04523113028863618, 0.069918651719758, 0.8848502179916058]",2,5
+546,0,"@Chukwu_Ka_ @bolaji99342270 @Anto18839080 @UgwuOkoro @abikedabiri Open the link, she's half Igbo, half Yoruba.
+Peace out ✌️",../labels/review/manu_tweets_round_2_labelled.csv,"[0.08180244134774226, 0.6145612822148147, 0.30363627643744323]",1,5
+540,2,"“When it comes to relationships, Yoruba boys are too lousy, Igbo boys are coded and cool to date” – Ex beauty queen, Ronke Tiamiyu Reveals. https://t.co/EF1EMHwpGm https://t.co/6xOGYjyXE8",../labels/review/manu_tweets_round_2_labelled.csv,"[0.9419813997522963, 0.013048701852226003, 0.04496989839547767]",0,5
+811,2,"It's just d first month, n twitter is complaining abt Christians 😭😂😂 we haven't evn started yet! Everyone has right on this app! 
+
+This year we are coming with holyghost bang! You must be saved. You must join the chosen train. Apostle Paul, me too I v coconut head lik you.",../labels/review/pedro_tweets_round_2_done.csv,"[0.20620625396638456, 0.39902862283153556, 0.39476512320207996]",1,5
+528,0,"@danny_charis @AreaFada1 What's the question, what are you saying?! Is Biafra a pack of sugar or a tin of milk?
+
+Biafra was born but dead. How long will you fool around before you face reality?
+
+FG and her family members only got the palliative none sense...",../labels/review/pedro_tweets_round_2_done.csv,"[0.11347638167134921, 0.843410760126817, 0.0431128582018337]",1,5
+448,0,"@ogundamisi @atiku @PeterGregoryObi @thecableng @ProfOsinbajo You know you are a liar. 
+You are a Bigot. 
+Hating other tribes will take you nowhere. 
+For an OPC killer who has the blood of Hausas in his hands, to pretend to love Buhari,  you are making him less salable to other tribes. 
+
+APC needs doves this time not Vultures",../labels/review/pedro_tweets_round_2_done.csv,"[0.03393403566713983, 0.8734626657656309, 0.09260329856722935]",1,5
+467,2,"No matter wat u do,b u a whore,thief,liar,serial killer,pussy niccur,gay,lesbian,drunk,cassanova,womanizer,stoner! Always be at d top of it",../labels/review/pedro_tweets_round_2_done.csv,"[0.8142027676342116, 0.06427346912386506, 0.1215237632419235]",0,5
+1200,1,So satan was all alone in the garden of Eden with naked Eve and all he could do was convince her to eat an Apple. That Nigga Gay?!!☺,../labels/review/pedro_tweets_round_2_done.csv,"[0.2128606053569542, 0.3405657548773525, 0.44657363976569336]",2,5
+7,0,@MobilePunch Mmmccchheewwww stupid question. Do u need to b a Muslim to invest??? No. Our Mumu na die for Naija,../labels/review/pedro_tweets_round_2_done.csv,"[0.024341060101331437, 0.8373570629146113, 0.13830187698405721]",1,5
+122,0,"@TiborPNagyJr Your Excellency, we didn't defeat anyone. In fact, it's our Nakba. These evil Woyanes forced 100k Southern Ethiopian boys (Non-Tigrians) to march forward in par with 1st world war. The Eritreans killed our boys like cockroaches. It's pure Genocide. No one is talking about it. https://t.co/lEPDU2WbBx",../labels/review/pedro_tweets_round_2_done.csv,"[0.015708079151637484, 0.04328677021840106, 0.9410051506299615]",2,5
+1219,2,"RT @aspirin_n: Dear @netflix
+Jesus was not gay or a drunk. This is disrespectful.
+No one would do this to any other religion bc they know f…",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.7522147916852049, 0.22278897776711853, 0.024996230547676693]",0,5
+169,1,"Any slave dat betrayed his master is a pig 🐷 dog 🐶, to dos idiots that says rubbish on we the northerners, what is ur problem it is because we always decide who to rule, so go fuck ur self idiots bunch of pigs",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.01526909550255215, 0.30564152096689595, 0.6790893835305518]",2,5
+291,0,@Udo_Oliver97 @jacksonpbn Moron is someone who believed everything he/she read and hear.. same people calling for buhari's head when rumours of is dismissal were flying around? same people who claimed it was a ploy to replace him with a northerner..may God heal your unstable mind,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.07001907892837854, 0.8852562366439543, 0.04472468442766739]",1,5
+1179,2,"Either this is all scripted or these women are just very stupid 
+
+#BBNaijaReunion",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.8945542203630462, 0.07330409927921772, 0.032141680357736076]",0,5
+1137,1,"RT @DrOlufunmilayo: To kidnap 300 girls,
+Let me break it down for you:
+
+If these monsters use an 18seater bus,
+They will need 16buses to do…",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.437048751759499, 0.05074050142999791, 0.5122107468105033]",2,5
+1171,0,#YouAreAFoolIf girl chop your money nd u no even knack one round,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.29688073105489604, 0.46629345112830006, 0.236825817816804]",1,5
+533,0,"RT @henryshield: It�s amazing. Sunday Igboho�s only crime was asking that Fulani herdsmen stop killing his people. 
+
+That�s why security fo�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.37317981934456956, 0.14512600790259397, 0.4816941727528364]",2,6
+528,2,"RT @iykimo: Why are people afraid to mention the groups and people responsible for food inflation?
+
+Fulani herdsmen grazing on farms and ki�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.6871273730441397, 0.07277718347397215, 0.24009544348188833]",0,6
+126,0,"@ekometa @AsiwajuTinubu ""M.K.O. ABIOLA colossal billionaire Muslim,100%Yor�b� inside-out, spends weekends in birthplace, changed lives of thousands Won June 12, tragically MURDERED by Islamic Northern military boys in AWE of probity in connivance with some Yor�b�s BASTARDS.
+
+WHO the FUCK is Tinubu ?.""? https://t.co/LPdu35dDre",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.06238055704386661, 0.2882335875015428, 0.6493858554545905]",2,6
+188,2,"@loudmind94 That�s how I was reading this Islamic book on marriage shit Yh 
+I was feeling the author till the author said �we women are selfish why can�t we let men marry more than one wife beside there a lot of women than men in world �
+I�m like bitch bye??
+I cantttttttttttt",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.7289788163768095, 0.10620541984932913, 0.1648157637738613]",0,6
+449,2,"It would be dangerous, reckless &amp; counter productive for Buhari to ARREST or KILL Sunday Igboho.
+When the Northern youths demanded that Igbos should leave the north no-one was arrested.
+Why should Sunday be arrested or killed for asking KILLER Fulani herdsmen to leave SW?",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.6333641428532276, 0.11813715773753972, 0.2484986994092326]",0,6
+265,2,"Slut shamed herself cos her &amp; Tobi appeared as just friends. The way Tobi was acting in d house was why it didn�t work with Alex- he is a Yoruba demon, jumping frm 1woman to another, very few women can manage dat, even d low-self-esteem ones. Dislike CeeC or not, she carries hers https://t.co/QE0X74oLao",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.1914146752203987, 0.4304128582413782, 0.3781724665382231]",1,6
+344,2,"@abati1990 I wonder what she does o! She claims to be a Christian, but it’s obvious that She doesn’t read her bible! Because out of the abundance of her heart, her mouth speaks. A woman filled with Injustice and Evil! Unfortunately, they made her a Pastor! When she’s Mama Agbero!",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.10990260528295047, 0.44847124560041535, 0.44162614911663417]",1,6
+33,1,"this country dem de call nigeria 🇳🇬 i weak, de don reason us like mumu wella, dem go just wakeup increase anytin dem like, wakeup say de wan give fulani money, wakeup with there ram head.. nigeria jagajaga #Nigerians #Dangote #Biafra #FuelPriceHike  make d ones wey get sense ffb",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.055400321964916434, 0.27165998405236236, 0.6729396939827212]",2,6
+184,0,"How to use VPN
+
+👉Download any FREE VPN
+👉Choose any country you like
+👉Tap connect
+👉Click get later
+👉Then Start Tweeting Gen. Buhari and #APC and Fulani Stupidity.
+
+Awon Eranko lasan lasan can't make make #YorubaNation, #Biafra their Slave.
+
+If you need info?
+Tweet it HERE! https://t.co/vMU9nTLJIQ",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.05139833174597873, 0.2814067208831443, 0.667194947370877]",2,6
+89,2,"RT @Adedotvn: My Dad stopped traveling to Ijebu-Ode after he got robbed and ambushed by Fulani Herdsmen as far back as 2013. 
+
+From his nar…",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8853288590587651, 0.03524509447137515, 0.07942604646985983]",0,6
+67,0,"RT @oscarokeke1: #They all liars Igbo Governors,#Ohanaeze ndi oshi,They do not represent masses just answering to Hausa Fulani caliphate  s…",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.05378075046126038, 0.2398692126904299, 0.7063500368483097]",2,6
+376,0,"Lie""@lil_MssAwesome: This! ""@Don_Akay: Ya'll can call a Hausa gurls malo or what ever but Hausa produce d most decent girls in Nigeria",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.20189462322857069, 0.26057034085638703, 0.5375350359150421]",2,6
+138,1,"@BashirAhmaad God go punish you, Bashir Ahmad for calling buhari father of the nation and lover of Nigeria. The yeye man is only a patriot leader of Fulani herdsmen and boko haram. Nonsense",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.0589202480702925, 0.4518246566826937, 0.4892550952470136]",2,6
+116,1,"@deyinkagrandson You're a big fool, very foolish individual oponu, apoda, you are very shallow minded. How dare you talk about a tribe or and treating others. You must be stupid to incite violence. Who gave you the audacity and voice. Oma stupid o. What as an average igbo man or woman done to you",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.05208873687186248, 0.40513416090958776, 0.5427771022185497]",2,6
+61,1,"Sorry soke werey (yoruba)
+Kwupu okwu onye nzuzu (igbo)
+Kara murya (hausa)
+Are there more??😐
+#EndSARS",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.9112429219666525, 0.03888126989252258, 0.04987580814082507]",0,6
+392,1,"RT @Rx_Khaleel: Any Muslim that says Lesbianism, Being Gay and all is Halal, then he is a Kafir on that spot. Cuz that's shirk
+
+Any Muslim…",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.1216899208374831, 0.42318696009839524, 0.45512311906412156]",2,6
+310,1,"What happens to the gay mallam exploiting almajiri boys in minna.... 
+
+What happened to the so called repentant boko haram who have claimed more lives than covid?
+
+Who tf did we offend?
+Everybody just motherfvcking hypocrites!!! https://t.co/9h4jAh1BuE",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.05436604811566798, 0.22810164868571828, 0.7175323031986138]",2,6
+76,1,@ashiruabiola2 @akomolafeolare5 @DrOlufunmilayo Now you just confirm it that you are ode 💯.....see the way he quickly come out to threaten bcuz it is southern but he is very lenien with is brothers( bandit and herdsmen) paying them ransom...I will say it again ode ode ode ode ode ode ode now oponu 30k bmc https://t.co/9JlqxPgEaj,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.08389611534842571, 0.4302407502998055, 0.4858631343517688]",2,6
+352,2,"@parpeshe @YemieFASH @PoliceNG We also have a large number of Yorubas (agberos) stationed at every parks who harass people (men and women) in Lagos everyday. Guess we must be ""tribalistic"" to have an opinion in this country.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.5504221677498332, 0.0880730012520701, 0.3615048309980965]",0,6
+222,2,"@IgebinaA So You think. He went down because the south,  especially the west gave gave chunk of votes to Buhari. While few Northern PDP pay lip service to him and gave Buhari their votes, the West was divided by the 'tiwa n tiwa' syndrome and the Osinbajo bait. The Yoruba fell like 'mugu'.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.6873187412943033, 0.14329809658290432, 0.16938316212279234]",0,6
+24,1,"RT @savage__diamond: Yoruba mythology: Oduduwa came down from heaven with a chain.
+
+Yoruba Muslims:  Where is the chain, mumu story
+
+Arabic…",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.18664133467893526, 0.29182351766552683, 0.521535147655538]",2,6
+568,2,"@montithefirst @comandant5 @liamjajitoby Lmaoo So your years of reading the Bible told you to call me a slut abi? That’s just to say that y’all become Christians just to judge other people’s decisions. Small boy, heal",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.1201890828878641, 0.5047810582094487, 0.37502985890268714]",1,6
+2,1,@solaadio Yes they can. I've got discretion. I can't say the same for other Christians and they give 'stupid' reason y. It doesn't cut it,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.8903910128890268, 0.0514236511929176, 0.05818533591805575]",0,6
+782,0,"@elrufai he won't e even scale through APC primaries, plus the hatred he has created for himself from Christians. If the North are tired of Being a part of Nigeria, let them put El rufai forward as another buhari. Then "" the monkey and Baboon to be soak in blood"" quote 4rm BUHARI https://t.co/bKTqynKfmV",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.16770127169579088, 0.34179815910111744, 0.4905005692030918]",2,6
+745,1,"13. Most states cannot pay their salaries... So, is your Governor or senator or LG chairman a Fulani? What did they do with the little they have? How hard are they working to increase IGR? Yet, The lazy bums want you to blame the Fulani and @MBuhari alone?",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.08802768645184227, 0.39692799815591423, 0.5150443153922435]",2,6
+296,1,"@Laurestar U're an idiot; bitch-ass mama! Go for my mother, if u can. Sycophant; ready 2 die for affidavit-certified Fulani bigot so u can get 100k likes on Twitter &amp; u dared call him 'okechukwu'. Moron!!!",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.05173785075625714, 0.4091413643113177, 0.5391207849324251]",2,6
+282,1,"@whitenigerian I'm not in support of the killing, but how many of the kidnapping and killing by the herdsmen did you report. You're all corrupt bastards. Speak sense into your president head @whitenigerian",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.06585739510606342, 0.43133551978271445, 0.5028070851112221]",2,6
+298,1,"@freddymarshal @Ogagaoghene2 @ImKayCee7 @datbokiboi @stelladamasus Yes she has moron. Her father is a ""king"" in his homeland. Look at you claiming igbo wife. Gerrara here",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.055400583750439145, 0.4271223898572681, 0.5174770263922928]",2,6
+380,1,"Ha so much shit going on in this nation dey say the northerners are planning an invasion dey say Buhari been dead this is Jubril #SARS on the street still going for the kill
+Who the fuck came up with this social media bill?
+Politicians still looting us with no chill.. #ENDSARS https://t.co/TTtnbhxx3N",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.284794871101159, 0.25583441046483785, 0.4593707184340032]",2,6
+796,1,"OBASANJO IS A BABOON, MONKEY IN THE FOREST, GORILLA KINGDOM, HIS CHILDREN AND HIS YORUBA PEOPLE WILL SUFFER– Obasanjo http://t.co/M45hWGl2vI",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.06551814124782222, 0.32637269368398425, 0.6081091650681936]",2,6
+23,1,I love the fact that even the certified morons &amp; devils in this country are weary of messing with the might of the Yoruba media prowess in Nigeria.  All these crazy people that throw stupidity hate and mischief disguised in tha name of opinion and politics know when to be stupid,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.06125942740147094, 0.32515669593147734, 0.6135838766670517]",2,6
+138,2,"Take a careful look, one is Kenya flag, the other is Biafra flag. One if carrying sun, the other is carrying cockroach. One if better than the other. Like for Biafra, retweet for Kenya .#nigeriavskenya #NONSENSE https://t.co/4b2EoTD39J",../labels/review/haaya_extra_tweets_labeled.csv,"[0.8888263701169398, 0.047754522870100596, 0.06341910701295965]",0,6
+1053,0,@donfuna2015 @renoomokri I guess OBJ and GEJ are Fulani since they didnt restructure Nigeria,../labels/review/haaya_extra_tweets_labeled.csv,"[0.38657172919160476, 0.19416703708816493, 0.41926123372023033]",2,6
+1055,2,"RT @snnbiafra: ""A very reliable source informed me that Fulani terrorists planned to attack the three communities of Oduma, Nenwe (both in",../labels/review/haaya_extra_tweets_labeled.csv,"[0.9062503991204094, 0.03385904837375658, 0.059890552505834034]",0,6
+1051,2,RT @realFFK: Thousands are slaughtered by Fulani terrorists yet Buhari has refused to arrest even one of the killers.7 Fulani are killed in,../labels/review/haaya_extra_tweets_labeled.csv,"[0.6422433318324361, 0.0814132117154821, 0.2763434564520818]",0,6
+110,2,"You call me an idiot, i forgive u you call me an asshole, its all good BUT THEN U CALL ME GAY!!!!!???? OBOI!!! LEVELZ DON CHANGE #Aboki",../labels/review/haaya_extra_tweets_labeled.csv,"[0.17071640956124814, 0.4558580606487137, 0.3734255297900382]",1,6
+520,2,"@Smartgazzy @realFFK @GEJonathan May herdsmen visit u or anyone u love....then u will appreciate the need to have even one voice that will speak up for u. This is not about sentiments or appointment, @realFFK  is speaking out ....if ure brave enof , SPEAK OUT or forever remain a fool/slave",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.36686717497293864, 0.2857687641853591, 0.34736406084170224]",0,6
+944,0,"RT @Moh1Prince: #SundayIgboho to Sorosoke Generation.
+
+#RevolutionNow|Unilag|Arewa Twitter|Ahmed Musa| Lampard|Chelsea|Havertz|Ancelotti| #�",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.2832338502153668, 0.20358277663365854, 0.5131833731509746]",2,6
+577,2,Using Sex Toys Is Better Than Being A Slut - Bisi Ibidapo Obe: Yoruba actress Bisi Ididapo Obe who is popularl... http://t.co/4Z1BROJrkZ,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.9085711929983925, 0.03991983219891046, 0.051508974802697206]",0,6
+408,1,"RT @arewa_01: “I am a Christian but I believe Christians shouldn’t preach to Muslims”
+
+Your feelings don’t matter Uncle.
+
+Jesus says, “Make…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.9111810518972043, 0.040903923692416515, 0.04791502441037928]",0,6
+397,2,@WuraAina @PremiumTimesng I know it is more Christian than anything else. Don't worry Islam will take over soonest. When that happens you can heat your coconut head on the wall.,../labels/review/manu_tweets_round_2_labelled.csv,"[0.17135468717358582, 0.4580094876097864, 0.3706358252166278]",1,6
+272,2,"RT @emma_dele: You hate men
+You despise women
+Muslim men are bastards
+Christian women are hoes/bitches 
+APC is evil 
+PDP is useless
+
+You ha…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.5276231832472276, 0.13075990163263376, 0.34161691512013875]",0,6
+535,0,"If the deaths took place in any of the south east states,nnamdi kanu would have screamed Fulani herdsmen https://t.co/iftRIvawO7",../labels/review/manu_tweets_round_2_labelled.csv,"[0.2334035887619056, 0.2217928204963343, 0.5448035907417602]",2,6
+487,2,RT @ElochukwuOhagi: I watched the video of Fulani herdsmen terrorists killing of Hausa people in the North. Hundreds of corpses littered th…,../labels/review/manu_tweets_round_2_labelled.csv,"[0.6051632626809816, 0.07146928725579317, 0.3233674500632253]",0,6
+349,0,"RT @_Judlaw: The primitive accumulation of wealth going on in Benue State cannot be explained. But hey, Fulani herdsmen are the problem.",../labels/review/manu_tweets_round_2_labelled.csv,"[0.19736043010006607, 0.13432550907531848, 0.6683140608246155]",2,6
+281,0,"RT @LITsauce: Gay Man: You bitches are ashy, dusty, &amp; pathetic.
+Women: Omggg I'm weak 
+Straight man: I don't like weave 
+Women: MISOGYNIST…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.18646538069259921, 0.21498743400151824, 0.5985471853058824]",2,6
+49,0,"*Girl to girl*: ""You look pretty!"" ""Awwh thanks, so do you!"" *Guy to guy*: ""You look handsome."" ""Oloshi! God Go punish you! Gay idiot",../labels/review/manu_tweets_round_2_labelled.csv,"[0.06744296591379026, 0.380136476967944, 0.5524205571182657]",2,6
+125,1,"@MobilePunch This bastard done start blame game again ,why not jonathan this time , goat is better than adesina , wetin concerned Christian and Muslim for this matter.",../labels/review/manu_tweets_round_2_labelled.csv,"[0.060487577164045195, 0.46000925165343237, 0.47950317118252256]",2,6
+187,0,@choccitymusic  A̶̲̥̅♏ a christian avin more fun dan a muslim! Evrytin anytin is goin on *shit #barkadesalah,../labels/review/manu_tweets_round_2_labelled.csv,"[0.22601484030504546, 0.3294121316348795, 0.44457302806007515]",2,6
+438,0,RT @sanisuleimanu: When young guys and girls of Arewa extraction are busy insulting themselves and dragging their parents into their madnes…,../labels/review/manu_tweets_round_2_labelled.csv,"[0.2115015949132027, 0.17784149848841665, 0.6106569065983807]",2,6
+36,1,"Na cult boys kill these one's for southern Kaduna ... Idiots.
+
+I WONDER WHY SOME YOUTHS WILL BE THINKING LIKE LOW ANIMALS, HOW WILL YOU BE ASKING US, HOW ARE WE SURE IT WAS FULANI HERDSMEN THAT KILLED THE PERSONS WE… https://t.co/ZstVRW8Oqm",../labels/review/manu_tweets_round_2_labelled.csv,"[0.05317372026457054, 0.23606421018897025, 0.7107620695464592]",2,6
+618,2,@ivy_okoye Christian Di Whore Di Whore (Dior 💀),../labels/review/pedro_tweets_round_2_done.csv,"[0.8857259522117786, 0.04466110132163687, 0.06961294646658449]",0,6
+602,0,"@GarShehu @DanielOnjeh Ppl need to be wise and stop running after illiteracy, if u are not educated it doesn't mean u will killing like cow and goat, Fulani value their cow same as farmer value their crops no excuse for any ignorant bitches.",../labels/review/pedro_tweets_round_2_done.csv,"[0.05868997656464289, 0.27094938743369223, 0.6703606360016648]",2,6
+595,0,@MFaarees_ 😂😂😂😂. no worry buhari imcompetence plenty e go reach every body. so u get mind want us to support u. ur thugs stabbed my friend and arewa twitter was celebrating. karma is a babd bad bitch,../labels/review/pedro_tweets_round_2_done.csv,"[0.04928573858389271, 0.3220903275692915, 0.6286239338468157]",2,6
+443,0,"Iffa tell you say I no dey bewildered and bemused at this Northern Culture, I be liar! 
+Na this Sharia law application even in a Federal setting been won make me challenge Camp Commandant director for Kastina Orientation Camp!
+Abeg the divide between us and this people much! https://t.co/dwxhbCJziW",../labels/review/pedro_tweets_round_2_done.csv,"[0.08279911891446247, 0.3348337758135443, 0.5823671052719932]",2,6
+212,0,@LagosTalks913 that's how useless ppl slept in open air outside my hotel last weekend in abj. They came all the way from one northern state to support one useless man wey wan be president,../labels/review/pedro_tweets_round_2_done.csv,"[0.10788490742925493, 0.3468990227719637, 0.5452160697987812]",2,6
+819,0,"All these southern senators and honourables keeping mute while all this rubbish is going on should remember that this coconut head generation doesn't forget.
+🗣️",../labels/review/pedro_tweets_round_2_done.csv,"[0.14000645046753596, 0.22853256822227944, 0.6314609813101846]",2,6
+408,1,@Miguel_worgy @AlanStac But you’ll hear them saying “as LonG As tHEY don’T BrING thAT GaY sHIt NEar ME”. Fucking donkeys https://t.co/k5hKl84PKD,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.10271036829124909, 0.28298724853319557, 0.6143023831755554]",2,6
+763,1,RT @Meerah_de_vie: Extremists and fanatics who justify their killings under the guise of Islam are the scum of the earth. Islam is a religi…,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.10272379298767634, 0.22546762465552922, 0.6718085823567945]",2,6
+772,0,@Stanlee_oruche @MrAmaukwu @Obia_Sebastian @KelvinOssai No...you know some religion fanatic believe that women must give birth through vaginal delivery as that is the only ORDAINED TYPE OF DELIVERY.,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.16434862118404786, 0.37427392811694765, 0.4613774506990045]",2,6
+587,1,"@OsuohaJoy @_Patsyvera @BBNaija Stop repeating words this garage girl, and stop teaching your girls on how to become a harlot in life.  I pity the man that calls you his wife, a slut like you can end a man’s life . Aturu igaba 😛😛😛",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.053257589877368526, 0.37248943936361245, 0.574252970759019]",2,6
+688,1,@amietorii @JFriks @chinazzar_ @JesutoniJesse Asun is a female vulture,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.0578414432428148, 0.3960473024966912, 0.5461112542604942]",2,6
+302,1,"@Imamofpeace Who is raping and killing Christians and where? You are trying to instigate to cause unrest in our country. I see. 
+May Allah wrath visit you. U are the type that give's Muslims bad image. May u no know peace.",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.08997664993223213, 0.4271637285539982, 0.48285962151376977]",2,7
+202,0,"@renoomokri @aishamusagarba But wait o...what brought Christians, evil doer, southerners, pig comment under an harmless relationship advice?",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.15290811148604258, 0.24114624343925314, 0.6059456450747043]",2,7
+518,2,"RT @Real_AmakaIke: �I�ll no longer announce the deaths of those killed by Fulani herdsmen, rise up &amp; defend yourselves with weapons not pro�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.6833001642719168, 0.07719002043486614, 0.23950981529321724]",0,7
+393,0,"@MBuhari you are quite aware that Fulani herdsmen are killing in the hundreds, yet SARS has never been tasked against them. U sent the Nigerian troops I'll equipped to defend us against boko haram ill equipped and they do so gallantly with outdated rifles.
+Are we indeed baboons?",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.12104179267310121, 0.25029427979941227, 0.6286639275274866]",2,7
+157,1,"@nairaland No be only 2 Truckloads, Na 200 Trucks of fully armed fulani Herdsmen ! Nonsense and ingredient story posted by an elefufu moron..",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.08055605001780324, 0.35918093636051696, 0.5602630136216796]",2,7
+273,1,@Godwill63596959 @Bulamacartoons Oh u thought I�m Muslim wrong u I�m not bitch I�m Christian so I guess s our religions dt s d terrorise mumu mamas pet staying under parent saying rubbish on here. Poor goat,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.06602270768278132, 0.3414868888771365, 0.5924904034400823]",2,7
+275,2,RT @Imoladayo: @aproko_doctor This happen to a friend of my friend along Akure owo road today they were shot at by Fulani herdsmen thank Go…,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.4732397164483558, 0.10585216665349209, 0.4209081168981522]",0,7
+147,1,"RT @R2_TV: Question: Yoruba, Hausa or Ibo girls... 
+@DizzyMbata: I'll go with all three... 
+Lol.. Ashewo Boi!!!
+#R2TVBreakfastShow",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.1366987154700984, 0.35861768833455193, 0.5046835961953496]",2,7
+167,0,RT @naiiimah: So these ashy hausa guys want to be treated like the prophet was treated by his wives but will not treat a woman the way the…,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.12104199773105095, 0.2258879186885134, 0.6530700835804357]",2,7
+318,0,What a thread!.... Tears fell down when I read this thread. Ali and his friend would never say Igbo's are wicked tribes and okafor &amp; his family didn't say Hausa's should be killed. Did you see how God did a very wonderful work here. I never knew Almajiri(s) begs for mallam😭😭 https://t.co/esQrlNcFGU,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.20090962509672008, 0.18685733568923865, 0.6122330392140412]",2,7
+417,2,"@mkadamu3 Ashe Igbo ce, nyamiri?
+
+A ina taji Hausa haka.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8701397652561911, 0.05716818849375717, 0.07269204625005185]",0,7
+472,2,The Hausa has long ago tagged them Nyamiri-ba-Mutum https://t.co/tDcZXigWHo,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.851139366492918, 0.05489185328317104, 0.09396878022391095]",0,7
+156,0,"#AbujaPoliceRaidonWomen Nigeria no get any law wey say make pesin no  wear skimpy cloth enta club go jollificate or  do ashawo.
+ 
+But for northern state wey dem di practice Islamic Penal code, e dey illegal plus all those madams dem wey di cari under age pikin dem to do ashawo",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.16271768440922438, 0.20832242801611017, 0.6289598875746654]",2,7
+524,1,"One idiot blocked me today😂😂😂😂
+The fool from Eastern Nigeria where I have awesome and right thinking humans as friends couldn't hold a simple conversation of why people have a choice by voting Buhari in 2015.
+The Ode thinks I eat off this page, oponu ndi ala osi",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.08760633275832283, 0.4256697598280154, 0.4867239074136617]",2,7
+453,1,"@mkadamu3 @IbehEngr @channelstv Did you say Fulani are attacked on daily basis? Can you honestly say where such attacks took place? Of the Fulanis the governor said were killed at Kajuru, why hasn't he shown the world their graves? Bloody liars.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.10581680442227451, 0.4173911500710661, 0.47679204550665955]",2,7
+226,1,"@dat_ph_boi @accessbank_help @gtbank @FirstBankngr @FBN_help they are the most useless bank with the worst banking service, they can’t even stand with some micrfinance bank not even ibolo or balogun Fulani micro finance bank awon oloshi arindoti masafani",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.07888383734865267, 0.3325190195670191, 0.5885971430843283]",2,7
+19,0,"@VENT_NG @Tasinnewstv The problem here is,once you have a contrary opinion you are immediately label Fulani slave,you are called stupid,fool,idiot,empty brain and so https://t.co/VIk5E8Zkvx can't take on everybody.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.21758906332954597, 0.2842229974076426, 0.4981879392628114]",2,7
+519,1,"@AdeolaHaze @AMADICHIMA Bigotry is when you supports same herdsman I’m supporting or my supports for PYO and you supporting people that called your generations cowards, fools, bastards, idiots for accommodating them. Go get your brain formatted Orangutan who’ve lost his ancestral home cos of peppersoup",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.0723223783966437, 0.4107357275059477, 0.5169418940974085]",2,7
+97,1,"@CChibuzo @KemiOlunloyo Igbo is most foolish tribe in the world, according to Uwazuruike. Do you also agree to this? Most of you just come online after getting daily 10mb from network providers to throw tribal slurs. Idiot. https://t.co/rjE1hUjUGZ",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.0775424073029249, 0.43973687655746874, 0.4827207161396063]",2,7
+720,0,@samchrismccoy @Officialchike That is the problem with some of us de igbo we see our things or culture as outdated just bcos he stays in ordinary Lagos we r now primitive,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.30566723461407236, 0.20953117394292162, 0.48480159144300594]",2,7
+190,1,@Chopins22 @AsiwajuTinubu @jidesanwoolu @followlasg @lshaofficial @ekometa Omo Ale jati jati... Omo Ibo Aje Aja.. Dog eater,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.08503228467181372, 0.39636584852511586, 0.5186018668030702]",2,7
+433,0,"@Only1_kollyking Two virgin cows, Five lesbian pig and three bald housefly
+They will be really glad....",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.16024848512492168, 0.2242553174635871, 0.6154961974114911]",2,7
+135,1,"@logobwoy1 @iam_suphy @Mrbankstips @GeeSamLee1 @GracefullyMadeI be like shey Cockroach dey your head.... If you don't know how bet shop dey roll things.....""transfer koh transgender ni""",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.08946387119896751, 0.4110591879662458, 0.49947694083478666]",2,7
+517,1,"RT @omoyemmie: FOOL""@iConMi: Mumu boy. ""@iz_MorGan: Ode oshi!! ""@iziksway: Gay 100 %""@franklinto: Gay or Nah?.  http://t.co/CFaowBYiwq""""""""",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.07474822486508043, 0.41915742196758965, 0.5060943531673298]",2,7
+678,2,"RT @Seyi__: The replacement is Osinbajo. So he is a vulture? Lmfaoooooo again, you southern idiots dont know these guys dont rate you. http…",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.13276308576770754, 0.43499468294987115, 0.4322422312824212]",1,7
+605,0,@owenebruba i really need to suck that boob.I beg hook with the bitch.I'm yoruba too.,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.24326739333487843, 0.2864466585465956, 0.47028594811852614]",2,7
+810,1,RT @DrOlufunmilayo: Im a Christian. So I can tell you these hard things because many of you coconut heads love to believe in a lie than fa,../labels/review/haaya_extra_tweets_labeled.csv,"[0.2150096455045041, 0.35666123352274, 0.42832912097275616]",2,7
+475,1,RT @biafra_tv: Biafra: Uwazuruike: the shame and disgrace of his dubious style of freedom fighting; the fraud; the liar; and the https://t,../labels/review/haaya_extra_tweets_labeled.csv,"[0.19027431353346416, 0.3765165122720165, 0.4332091741945192]",2,7
+1240,2,RT @renoomokri: Herdsmen are the 4th most deadly terrorists according to the @GlobPeaceIndex. They have killed tens of thousands of Nigeria,../labels/review/haaya_extra_tweets_labeled.csv,"[0.5449973053124523, 0.10235197096401263, 0.35265072372353506]",0,7
+1220,2,"Gays and Lesbians, We Will Not Keep Quiet, By Philip Amiola
+
+Homosexuality must be resisted with righteous fury,... http://t.co/FREQTi709F",../labels/review/haaya_extra_tweets_labeled.csv,"[0.8809805052565589, 0.04705645248832306, 0.07196304225511799]",0,7
+339,1,"@CNN The Left are increasing becoming annoying and disgusting. Their hate against White, Christians, morality and everything humanly reasonable can best be described as the ugly emergence of Frankinstein monsters!",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.13520549604939766, 0.28262785128109175, 0.5821666526695105]",2,7
+762,2,"@DrLawalSir @_MindSculptor @FeralJack_ Your inability to see beyond religion has blinded your ability to be coherent. Since you Christians or better put, religious fanatics seem to feel like saint that's why I termed you holy one. You're the one acting indiscreetly Mr. I'm being moved by reasoning and not sentiment.",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.160242957040988, 0.46526592030871294, 0.3744911226502991]",1,7
+672,2,"@Dee1music @christongray Just because you are Christian don't mean you are no vulture.
+
+Thatz one strong word",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.4005572174680801, 0.27099748789606215, 0.32844529463585764]",0,7
+1276,1,"They preach #Democracy! 
+But When the chips are down, the fantastically corrupt #Slavemasters from @GOVUK &amp; their #SlaveHunters in @HQNigerianArmy &amp; @PoliceNG use #Force of arms to settle an important political question of freedom of indigenous people of #Biafra.
+@CatrionaLaing1",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.08819877954650372, 0.31376242596333986, 0.5980387944901565]",2,7
+243,0,@AlExVaLnAtIoNs2 @Ann46268908 @MrAfobaje Niger delta will not be with your biafra nation and we will also seek to break out of the useless nigeria nation as well... Most of you here have already shown that there will be no difference between biafra and nigeria...,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.10528370463835739, 0.33328647498657465, 0.561429820375068]",2,7
+653,0,"When we were focused on some other issues, the @HouseNGR has approved the $22.7billion loan request kicked against by the Southeast. This is complete rape of democracy. The @NGRSenate, @HouseNGR, and the administration of @MBuhari  and @NGRPresident keep shortchanging the Igbos. https://t.co/69K8tMNYna",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.17415123990285453, 0.3656751626584121, 0.46017359743873354]",2,7
+1214,2,@captain_crabb @andrewskipper96 @savanaheden are u all gay? I wonna know,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.6202092396912636, 0.14166914928641328, 0.2381216110223232]",0,7
+804,2,Gay baboon doesn't know about getting consent? https://t.co/V6cB5pxnvc,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.6172924200370377, 0.18220419457065912, 0.20050338539230333]",0,7
+8,1,RT @STWKadaria: Reports of protests in Kano. Who is hell bent on destroying Arewa and why are we so STUPID that we don't realise what is go�,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.41471652019960376, 0.22514741359717588, 0.3601360662032205]",0,7
+557,0,"RT @omokehinde___: @ToluuO @yinkaahmad Chai, how can a human being do this to an old woman??
+These guys are animals.",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.12673410895623463, 0.33655979554501336, 0.536706095498752]",2,7
+457,1,"@babieblaq @Deothe_weirdo Your aunty is a liar, you are a liar too.. Stayed in yoruba land for more than 4 years and learned nothing... Olodo",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.07443359833821778, 0.42917319502814777, 0.49639320663363445]",2,7
+500,0,@Datfulanigurl That Fulani girl,../labels/review/manu_tweets_round_2_labelled.csv,"[0.2833585309998127, 0.16911850945570156, 0.5475229595444858]",2,7
+221,1,RT @stanCSO: Nigeria will never grow with liars like Buhari as presidents. Qualified people are found mainly among his Fulani/Hausa Moslems…,../labels/review/manu_tweets_round_2_labelled.csv,"[0.12364329329371385, 0.26358852727647963, 0.6127681794298064]",2,7
+131,1,"#Itsnotfinished #oyingbo #LekkiMassacre2020
+
+can we all report this idiot account
+@adamugarba . This fool made a video in hausa. Telling them to fight the southerners. His reason is that we want to hijack @MBuhari government. The same fool that sued @jack ... Bastard fellow",../labels/review/manu_tweets_round_2_labelled.csv,"[0.08731656637785443, 0.4213714791913999, 0.49131195443074566]",2,7
+170,1,"@nwaikeokwu Why don't you just start a thread that all Fulanis are herdsmen to sound half smart, how did Nigeria inherit this much number of dumb people in her population?
+In case you cross the Niger bridge anytime soon, the herdsmen, bandits &amp; cattle owners are different people.",../labels/review/manu_tweets_round_2_labelled.csv,"[0.12478951837297288, 0.2383750471902822, 0.636835434436745]",2,7
+325,1,"@QueenOfDBlues @ValiantNig Is a supporter of this evil govt. Someone that can trade his mama for money😂😂😂😂
+
+Herdsmen have been killing, raping and kidnapping people but they all kept quiet. Now people want to protect themselves, the idiot is talking.
+
+Omo Ale Yoruba ni o.",../labels/review/manu_tweets_round_2_labelled.csv,"[0.061778667922143475, 0.36733453390092363, 0.570886798176933]",2,7
+143,2,RT @funshographix: If you are a black Christian or a black Muslim in this 21 century with full of information you're a big moron. You can g…,../labels/review/manu_tweets_round_2_labelled.csv,"[0.14830833035622978, 0.48462502672857277, 0.3670666429151976]",1,7
+112,0,"@OseJobe @OccasionalWitch @Ebuka Eeeh, Prince likes @Wathoni first before Nengi, that's not even my annoyance,  has Prince asked this useless and senseless @Tolanibaj out?
+Why is she so cheap? I have never seen yoruba girl this cheap, gosh.
+#shameonTolanibaj",../labels/review/manu_tweets_round_2_labelled.csv,"[0.09226374342619359, 0.41017939444487883, 0.4975568621289276]",2,7
+162,0,@LukmanHorpe @AkogwuEdache @AishaYesufu @pastorwf_kumuyi @LukmanHorpe ; calling someone dog is totally wrong and you should withdraw your statement or delete it.. am a christian and i support the dragging or calling-out of whatsoever Pastor on this platform. Pastors are not gods. It’s easier for we youths to drag President @MBuhari,../labels/review/pedro_tweets_round_2_done.csv,"[0.2786943177772381, 0.4140511717321474, 0.30725451049061475]",1,7
+143,0,"A PROBLEM AND PROBLEMATIC CHRISTIAN IS ONE WHO ONLY WANTS TO HEAR AND KNOW WHAT GOD CAN DO FOR HIM/HER WITHOUT CARING TO LEARN AND KNOW HOW GOD WANTS HIM/HER TO LIVE FOR HIM AND PLEASE HIM.
+
+JESUS DID NOT DIE 0N THE CROSS FOR YOU TO MAKE YOU A PARASITE FOR HIMSELF.",../labels/review/pedro_tweets_round_2_done.csv,"[0.12755017232593208, 0.40269038802839285, 0.469759439645675]",2,7
+620,2,"RT @NoneonRecord: "" I was a church boy for a good part of my life. So, I was sometimes whore by night, Christian by day, if I can put it li…",../labels/review/pedro_tweets_round_2_done.csv,"[0.8944498331640173, 0.04817412730155596, 0.05737603953442672]",0,7
+42,0,@NigeriaNewsdesk @NaijaNews As a NIGERIAN I will answer the questions with questions. What was england and the english before 927AD? What was America and Americans  before independence? These are very stupid questions for issues as serious as the biafra agitation. you didn't say where the debate would hold.,../labels/review/pedro_tweets_round_2_done.csv,"[0.3327407160763635, 0.4109050194025865, 0.2563542645210501]",1,7
+1276,0,"They preach #Democracy! 
+But When the chips are down, the fantastically corrupt #Slavemasters from @GOVUK &amp; their #SlaveHunters in @HQNigerianArmy &amp; @PoliceNG use #Force of arms to settle an important political question of freedom of indigenous people of #Biafra.
+@CatrionaLaing1",../labels/review/pedro_tweets_round_2_done.csv,"[0.08819877954650372, 0.31376242596333986, 0.5980387944901565]",2,7
+506,0,"@Nwafresh @YeleSowore I'm an Igbo man. 
+
+I'll protest. 
+
+Capital fools are the ones who keep quiet in the face of injustice.",../labels/review/pedro_tweets_round_2_done.csv,"[0.37423077130287885, 0.22196812167616145, 0.4038011070209599]",2,7
+99,1,@HumanRightsNG @SaharaReporters @HQNigerianArmy @PoliceNG Why is it that anything all these idiots want to cause confusion they'll use Igbo names? The other idiot calls himself @chiefojukwu,../labels/review/pedro_tweets_round_2_done.csv,"[0.1537758958970722, 0.4108229473839992, 0.43540115671892865]",2,7
+1204,0,"@PremiumTimesng ARE YOU IN NEED OF A RICH WEALTHY SUGAR MUMMY/SUGAR DADDY/GAY AND LESBIAN PARTNER ANYWHERE IN NIGERIA,WHATSAPP ME, +2348138108077..",../labels/review/pedro_tweets_round_2_done.csv,"[0.2260312773793761, 0.24958373720165553, 0.5243849854189684]",2,7
+74,1,@Iamigweleonard @channelstv Meaning if they were muslims which for now i can't say u did be happy idiots,../labels/review/pedro_tweets_round_2_done.csv,"[0.28306626403941243, 0.3319596064431574, 0.3849741295174302]",2,7
+632,1,Did TBoss just called  Gifty a second bitch wen she is d real whore in d house huh...you are the real bitch girl gift is better  #BBNaija,../labels/review/pedro_tweets_round_2_done.csv,"[0.15558000990608598, 0.4019705721974569, 0.44244941789645714]",2,7
+1151,1,"RT @xjesswalkerr: hot girls are born in may, june, july and august",../labels/review/pedro_tweets_round_2_done.csv,"[0.8569328605077269, 0.058343494079909845, 0.0847236454123633]",0,7
+33,0,"My Christian borders(gospel artist) buzzd me up saying am a worldly singer.But..Him dy smoke igbo,dy drink shayo pass me,e dy lash choir gals,e dy carry olosho,e dy do gee,e get sugar mummy.Abeg na who ur gospel song done help.bro u must b a mad idiot.sense dey pain u. Werey oshi",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.1080135150248872, 0.3182453940732541, 0.5737410909018588]",2,8
+459,2,"suddenly,
+Fulani herdsmen are no longer attacking villages;
+All Fulanis are no longer killer herdsmen;
+Hausa Fulanis are no longer ""Born to Rule"";
+Islamizing Nigeria is no longer being revealed to the politicians on... https://t.co/ru6E5fpIS0",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.5971432176785713, 0.0955488322232202, 0.3073079500982085]",0,8
+466,0,"Then I think u should meet d hausas""@Am_Boss1: Have u met d ebiras""@TribecaDiva: Yoruba people too Like noise tah""""",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.23998726016843103, 0.21654592208051177, 0.5434668177510572]",2,8
+67,0,"@ClementEssien6 @BashirElRufai And since when a Hausa Muslim from Kano in Northern Nigeria start becoming a Human? So he is no more almajiri, parasite, wasted sperm, cow, terrorist?",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.0941681699395739, 0.2929763799832869, 0.612855450077139]",2,8
+436,0,These ones says the igbo�s are jealous of the northerners. ?????? https://t.co/AwRL7sgtWB,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.3605656584518125, 0.17200107588256408, 0.46743326566562327]",2,8
+14,1,"@_SeanKessie @ogbeninifemi Guys una mumu get levels shaa
+
+See as everybody dey comment done done.
+
+If this should be Christian /Muslim Evangelism now, nobody will see you
+
+Ashawo!!",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.10012299630012794, 0.33042150251058366, 0.5694555011892883]",2,8
+401,0,"@balahassanu @Fulani_Tutor @ShehuSani @atiku @Bellomatawalle1 When ur ppl are busy calling other ethnic groups ARNE ,Christian missionaries are busy wining many hearts of Fulanis in d bush!
+A lot of their youths can't recite Suratul fathia .
+This must be our collective sacrifice to win their hearts back to God! https://t.co/6FncrZWOaj",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.34531353931755665, 0.1540948078388325, 0.500591652843611]",2,8
+150,2,Leak Fotos: Angry Igbo Guy Uploads Photos Of Ashewo Girl He Did It With http://t.co/E2jMkRl2Hf,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8254905587917295, 0.06390413541936885, 0.11060530578890165]",0,8
+390,0,"The north in turn passionately &amp; vigorously hates anything that has its origin from the SE.
+They'd rather vote a cow from another tribe than a Peter Obi from Igbo land.
+
+Religiously, it is Kafir to the Nigerian Muslim to be governed by a non muslim.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.4222758982314307, 0.1451174846490987, 0.4326066171194706]",2,8
+322,0,"@PenAbdull Mallam ai kar ka kulla su, daga qin Allah sai bata wallahi. They will never speak out against LGBTQ cos suna tsoron Yunwa, their pay masters will frown at it so dey r scared. To me having 2nd tots abt d issue of LGBTQ in islam is even to me like doubting Allah.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.29608063004712804, 0.19394345170013624, 0.5099759182527357]",2,8
+98,1,@ifedayo112 @Naija_PR Uncle did I tell you am gay or attracted to women Please o I love dick okurrr Oloshi,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.21318584978803487, 0.2630245377621125, 0.5237896124498528]",2,8
+208,0,"@Belshagy Story story, most of you 'northern Muslims' support death sentence for blasphemy of your prophet, tell me how you are better off Bolo Haram and ISIS",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.09852611477729886, 0.26988935193843294, 0.6315845332842683]",2,8
+191,0,@FolaFlows @Stacey_Chinny @Heis_Marsive @instablog9ja Ask an igbo man the meaning of Aturu. Aturu i read that slow and can't to the conclusion that the girl in person is too bitter to drag her father outside just for the irresponsibility of her partner or child son. You are just another dumbolina to try to defend such character....,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.10648450071898057, 0.3320237400893939, 0.5614917591916256]",2,8
+316,1,Another mallam... What wrong with other tribe... Igbo or Yoruba man... https://t.co/KEKJV5rqyI,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.09883031025713476, 0.3138138103901921, 0.587355879352673]",2,8
+500,1,"@godwin_udosen @MaziNnamdiKanu @UKinNigeria @Number10press @nassnigeria @USinNigeria @UNHumanRights @StateDept @HumanRightsCtte @JohnCampbellcfr @CFR_org @EUinNigeria You're a very bigggggggggggggg 🐐
+Idiot like you I thought you're learned... Russian fool...that's why you people don't have a working brain... you're home is on fire and you're saying south south Fulani will teach you a lesson Anuofia!!",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.0837618772397857, 0.3239266304558415, 0.5923114923043727]",2,8
+37,1,"@realFFK You open whale mouth forgot that Herdsmen and bokoharam started their damage and did worst under you your clueless boss GEJ. Both you, GEJ and BUHARI are same. You idiots celebrate Nation's calamities when its a good tool for your stupid campaigns.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.08413046049373707, 0.31128793022164075, 0.604581609284622]",2,8
+522,1,"RT @Olamirewaju22: @HQNigerianArmy Bunch of cowards. Common herdsmen u couldn’t defeat. Shame on you @HQNigerianArmy bunch of fool
+
+SHAME",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.08329200226064384, 0.3057499381718078, 0.6109580595675483]",2,8
+327,1,@dorisjenny27 @alexlobaloba Lady take your ugly tribalistic dumb ass out of my way and stop making igbo people look bad. Oponu omo,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.08801954255335964, 0.32727188766298176, 0.5847085697836586]",2,8
+588,1,@kennytrip2 He's gay. A gay slut.,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.12726906606141156, 0.31719333689784973, 0.5555375970407388]",2,8
+385,1,@mosmail008 @IkumapayiJ @Abuchikag @dawisu You don't know shit...you're just a buhari sympathizer who knows nothing about the state of this nation...ohh I forgot you don't care about the nation but about buhari and his image...if this president was a southerner I can rightly guess the opinions you'll have.,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.09681349910271868, 0.34114510767588135, 0.5620413932213999]",2,8
+660,0,@lesbian_word @alexinwonland @Judith_Char How about women who rape children? Do you hate women too? Or just a double standard human?,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.113124633009984, 0.3013361701906304, 0.5855391967993855]",2,8
+400,1,"Some useless guys be like I have a girlfriend but I like you,and only a useless girl will fall for that #shit.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.3310495269967974, 0.20647752662124355, 0.46247294638195896]",2,8
+863,1,"RT @EmekaGift: @JulieElliottMP, #BiafransLivesMatters ,#Britain stop supporting #Buhari d #terrorist to kill #christian #Biafrans https://t",../labels/review/haaya_extra_tweets_labeled.csv,"[0.12801662500067962, 0.24001470141599007, 0.6319686735833304]",2,8
+1126,0,"@princedavidokon Very untrue,  most Ibo's all over the country voted GEJ. Only few voted GMB @EmekaOkoye @Chude",../labels/review/haaya_extra_tweets_labeled.csv,"[0.24571433227743558, 0.236705344298595, 0.5175803234239696]",2,8
+234,1,"@HQNigerianArmy 
+
+Useless idiots! You can go to the East and do operation python dance, kidnap innocent Igbo youths from their homes and kill them hit you are here begging Boko Haram. Useless Nigerian Army! 
+Na Python go swallow you evil ones! Bastards! https://t.co/HrPn7FjWVj",../labels/review/haaya_extra_tweets_labeled.csv,"[0.08814424457182353, 0.287641200896513, 0.6242145545316635]",2,8
+143,1,"A PROBLEM AND PROBLEMATIC CHRISTIAN IS ONE WHO ONLY WANTS TO HEAR AND KNOW WHAT GOD CAN DO FOR HIM/HER WITHOUT CARING TO LEARN AND KNOW HOW GOD WANTS HIM/HER TO LIVE FOR HIM AND PLEASE HIM.
+
+JESUS DID NOT DIE 0N THE CROSS FOR YOU TO MAKE YOU A PARASITE FOR HIMSELF.",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.34485237846463584, 0.187058630727447, 0.46808899080791694]",2,8
+370,2,Eastern Nigeria pidgin is disgusting https://t.co/jaxRpR6BbP,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.6954725081441878, 0.10629024511535683, 0.19823724674045548]",0,8
+476,1,@hshm10 @kcnaija You are a bloody liar... No one in Bornu Nigeria doesn't know Kanu. He is OHAMADIK 1 of Ala #Biafra.,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.09612777413264796, 0.3218785758511659, 0.5819936500161861]",2,8
+1009,2,"RT @abati1990: Federal Ministry of Health, kindly send a copy of your advisory on meningitis ?to Gov. Yari. Translate it into Hausa for him�",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.8375450208788323, 0.06502754543347707, 0.09742743368769048]",0,8
+838,1,"Oh i even forgot that this government has handed security of lives and properties  to God ( without giving Him security vote ooo) . They are merely securing the lives of the herdsmen. 
+Garuba and his cronies are coconut heads",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.1021451611322338, 0.27518766952024526, 0.622667169347521]",2,8
+553,1,"General buhari calls a conference in less that two because his genocidal tweet which was aimed at the igbos,was deleted,but people are being slaughtered every day like animals and he says not a single word,The system of government in Nigeria is corrupt to the very core #KeepitOn",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.35088600487655786, 0.16698561773268317, 0.482128377390759]",2,8
+365,2,"""Two Gay Boys Caught Having Sex In School Hostel Watch Video Here http://t.co/rTBJfnumOR"" so disgusting",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.817713298937576, 0.0667624429484249, 0.1155242581139992]",0,8
+69,2,@katalyst6001 Men are Scum but lesbians are cheating on each other ?,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.43921042349621064, 0.14758472991493465, 0.4132048465888546]",0,8
+209,1,@CBSNews Bloody bastard go and do it yourself useless old fool who�s only job is to brain wash people then going into hiding if you are really fighting a  good course then stop hiding come out plain. Giving Islam a bad image but you won�t succeed unless idiots,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.08928441686477932, 0.32850805049584325, 0.5822075326393773]",2,8
+641,1,Liar. Islam does not support rape. If you have sex with a 13 year old. It is rape. You can not tell me Islam is pro rape. So you and anyone who agrees is a liar/ has been led astray https://t.co/IwbvVSxdkP,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.13179350863998032, 0.3195317000084012, 0.5486747913516185]",2,8
+677,0,"@gimbakakanda When you refer to southerners, who are equally your fellow countrymen, as vultures, you lose every sense of dignity and spirit of humanity.",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.21143276467143424, 0.21102021306650864, 0.577547022262057]",2,8
+1176,2,"When you tell a Nigerian girl I LOVE YOU. What she hears is, I will buy you house at Banana Island.",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.8253715031824371, 0.06801578712714348, 0.10661270969041928]",0,8
+32,1,"RT @dondekojo: Idiot, best achievement was being a member of a Conference GEJ set up. Did you hate Christians and Southerners when you decl…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.19919727604383874, 0.2910157521052957, 0.5097869718508656]",2,8
+53,1,"@Derick27152036 @DavidOl57450723 @MaziNnamdiKanu Idiot we were massacred, both women and children because we said we want our Biafra restored. And we're still saying the same thing olodo. Allow us to leave peacefully.",../labels/review/manu_tweets_round_2_labelled.csv,"[0.11565625055908571, 0.3041190721496104, 0.5802246772913038]",2,8
+282,2,"@ta_fllexzy @Franklyn_NERD @DEXTER_lfc Pls add eastern girls in this ur generalization. No matter the tribe, just pray to find a good girl that's a real BITCH😉",../labels/review/manu_tweets_round_2_labelled.csv,"[0.4514101243427659, 0.16529596940552102, 0.383293906251713]",0,8
+180,1,"@AIT_Online Buhari's Gaddafi boys' blame....!
+How come they are striking only in Nigeria? Only in core Christian States? Are they just Hausa/Fulani friendly?
+
+Are our military and police dead sympathetic to Gaddafi?
+
+This is Buhari's (Baba blame) blame excuse to some disgusting sore fault.",../labels/review/manu_tweets_round_2_labelled.csv,"[0.12198626667881046, 0.23068530513284824, 0.6473284281883411]",2,8
+483,0,"RT @ShehuSani: Hausas,Igbos and Yorubas  irredentists should live in peace with each other.The #EndSARS protests should NOT be manipulated…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.3392842195271948, 0.1422311279726482, 0.5184846525001571]",2,8
+387,1,"Buhari said Baboons and Monkeys will be soaked in blood if he does not win in 2011/2015. @MBuhari Who are the baboons &amp; moneys? Is it Fulanis, Hausa's, or Yorubas &amp; Biafrans? or, is it the entire Nigeria citizens? This is the worst of hate speech - we will all probe it to latter!",../labels/review/manu_tweets_round_2_labelled.csv,"[0.15536308871012702, 0.19846999543581278, 0.6461669158540603]",2,8
+464,0,"@JohnFanimokun @realFFK need to see this, all these our people will just let someone be short of word, can you imagine she was bold to say all those things that she was arrested wrongly although her claim that they released hausa girls is still valid if what is in this video is to go by.",../labels/review/manu_tweets_round_2_labelled.csv,"[0.3918851870330495, 0.1966197461842225, 0.4114950667827281]",2,8
+38,1,"RT @Amaka_Ekwo: Idiot!
+Igbo-Biafrans are live &amp; develop all areas of Nigeria.
+Igbo-Biafrans speak Yoruba &amp; Hausa languages more than other…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.2901951475680905, 0.21727980426700735, 0.4925250481649022]",2,8
+337,1,"@SaharaReporters @OfficialPDPNig @Twitter So in other words, all the Fulani herdsmen killings are fake news spread on twitter by PDP. May God punish you BUHARI. Vulture will eat your corpse. Ozu mmadu.",../labels/review/manu_tweets_round_2_labelled.csv,"[0.08265524147286282, 0.30898160846038447, 0.6083631500667529]",2,8
+227,1,"@FS_Yusuf_ Is not about appeasing the Northern feudalist as you said fool , a Muslim is Muslim regardless of ethnicity , colour , Race , country or continent . So unlike you a pig with a ram head , Ovie is coming to the aid of his Muslim brother.",../labels/review/manu_tweets_round_2_labelled.csv,"[0.10007832413225178, 0.3183590020383276, 0.5815626738294206]",2,8
+782,0,"@elrufai he won't e even scale through APC primaries, plus the hatred he has created for himself from Christians. If the North are tired of Being a part of Nigeria, let them put El rufai forward as another buhari. Then "" the monkey and Baboon to be soak in blood"" quote 4rm BUHARI https://t.co/bKTqynKfmV",../labels/review/pedro_tweets_round_2_done.csv,"[0.10391019352214148, 0.27944774949390866, 0.6166420569839498]",2,8
+142,2,"I need a Christian to answer me please.
+
+So, when God murdered everything on earth at the flood, did it include viruses, bacteria, and parasites? 
+
+Or did Noah bring the viruses into the ark in twos?",../labels/review/pedro_tweets_round_2_done.csv,"[0.8026018661674184, 0.07631209458036793, 0.12108603925221362]",0,8
+1012,0,"RT @dr_khalidz: THUG NA THUG! Which one is Hausa Thug? This is the sort of narrative they have used to divide us for so long. Please, let's…",../labels/review/pedro_tweets_round_2_done.csv,"[0.16913377756170211, 0.23123491125036166, 0.5996313111879363]",2,8
+127,0,"@MaziNnamdiKanu @MBuhari @abati1990 @USinNigeria @StateDept @StateDeptPM @nassnigeria @JohnCampbellcfr @10DowningStreet @Number10press @SaharaReporters @DailyPostNGR @Jerusalem_Post After sending your Bingos into Bush Nigerian security haunting them killing them like cockroaches, the idea of your propaganda is getting to an end so this week is you jump into Buhari topic! I pity the Igbo Bingos that doesn’t understand you Nnamdi Usain Bolt Kanu 😊",../labels/review/pedro_tweets_round_2_done.csv,"[0.0888347941416551, 0.28359438649940855, 0.6275708193589364]",2,8
+97,1,"@CChibuzo @KemiOlunloyo Igbo is most foolish tribe in the world, according to Uwazuruike. Do you also agree to this? Most of you just come online after getting daily 10mb from network providers to throw tribal slurs. Idiot. https://t.co/rjE1hUjUGZ",../labels/review/pedro_tweets_round_2_done.csv,"[0.09037031616580118, 0.31976544014714237, 0.5898642436870565]",2,8
+26,0,"RT @DOPIEEY: Ure Igbo and u voted Buhari, GOOD! But u must be stupid if u think Buhari will vote an Igboman if ur places wr reversed.",../labels/review/pedro_tweets_round_2_done.csv,"[0.2719951463854744, 0.25579666583077765, 0.4722081877837479]",2,8
+562,2,"OBAMA approved gay marriage in his first tenure,,who knows if its Animal marriage now,,,",../labels/review/pedro_tweets_round_2_done.csv,"[0.8029402192261745, 0.08016452181662789, 0.11689525895719764]",0,8
+279,1,@Blvkwoman Haba Dammy !! Which one is bastard child again . It’s his child nah . Na the gay thing and the genotype gan gan Be the koko,../labels/review/pedro_tweets_round_2_done.csv,"[0.0913476425983406, 0.33832218384366614, 0.5703301735579934]",2,8
+588,1,@kennytrip2 He's gay. A gay slut.,../labels/review/pedro_tweets_round_2_done.csv,"[0.12726906606141156, 0.31719333689784973, 0.5555375970407388]",2,8
+596,0,@Mukib_ same as those who wiped out 800 lives in agatu..... Need I talk of southern kaduna... Karma is a bitch,../labels/review/pedro_tweets_round_2_done.csv,"[0.18168568383698158, 0.2454117376641828, 0.5729025784988357]",2,8
+173,0,"RT @ijawsingleforum: Southern Ijaw LGA Foropah bassan clan.
+
+Domestic animals
+Fowl...Ofoni
+Dog...Obiri
+Cat....Posi/Ologbo
+Rat....Okei 
+Pig.…",../labels/review/pedro_tweets_round_2_done.csv,"[0.4060105254410472, 0.13649543807524242, 0.45749403648371023]",2,8
+14,0,@SaharaReporters @GarShehu The stupid Garba Ewu should respect southern governors and respect the peoples decisions too.,../labels/review/pedro_tweets_round_2_done.csv,"[0.09210305088103435, 0.31575409571095286, 0.5921428534080128]",2,8
+197,1,"RT @alpharivelino: Men love dogs because dogs are cheerful, obedient and loyal. Women love cats because cats are aloof, mysterious and arro…",../labels/review/pedro_tweets_round_2_done.csv,"[0.8225840195539773, 0.0657647145433682, 0.1116512659026545]",0,8
+28,1,"Foolish talk""@Proud_EkitiGirl: You're just stupid b ""@OMG_itz_Henny: Females bleed for 5-7 days once a month and still be alive that's some",../labels/review/pedro_tweets_round_2_done.csv,"[0.1271788057078502, 0.3490152088446804, 0.5238059854474695]",2,8
+315,1,"I am very disappointed with the youths in Sokoto and Katsina who are going for #ProSars protest. Bandits have been killing thousands of Arewa people for 6 years you didn’t protest but you want to go and protest for SARS. This is very stupid and Dumb.
+#EndSarsNow",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.16804274303873398, 0.21185621702973223, 0.6201010399315338]",2,8
+998,0,@john_danfulani @AsiwajuTinubu @john_danfulani You are not relevant to the people of southern kaduna.,../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.1491272951412375, 0.328840146370498, 0.5220325584882644]",2,8
+831,1,"Ozo coconut head strong pass Laycon own sha
+
+Nengi's tired is tired sef!
+
+Ozo free this girl now and stop making it difficult for the both of you...please do this for your fans
+
+#BBNaija #AGirlLikeNengi #OZOwillDoBetter https://t.co/swpF48OVgc",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.10814878491267232, 0.302331184477639, 0.5895200306096885]",2,8
+156,0,"@OmoMojeed Tomorrow you'll still complain that women are parasites and depend on men for everything, pls what else do you want?",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.18113905504634337, 0.26552560727885327, 0.5533353376748034]",2,8
+103,1,"RT @OluchiUkadike: Please help Christians and BIAFRA.
+
+#RejectNigeria to stop Christian genocides in Zooniger-area.
+
+Ibrahim Magu is a dog�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.14714951912221022, 0.2599634394443681, 0.5928870414334217]",2,9
+314,2,"9 Fulani herdsmen gang-rape 15-yr-old girl, 2 housewives http://t.co/CMMUGqilfh",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.846576880042582, 0.04310598954548795, 0.11031713041192999]",0,9
+519,2,RT @nigeriantribune: Fulani herdsmen shouldn�t cause war in Nigeria https://t.co/X7BdkvGe9a,../labels/review/haaya_tweets_round_2_labeled.csv,"[0.8717029096294381, 0.04041332686193979, 0.08788376350862195]",0,9
+398,0,"If they can do their politicial campaigns in Igbo, Hausa and Yoruba etc then what's stopping us. Let's show them what this coconut head generation is capable of doing ?
+
+#EndSARS https://t.co/ktFJSKAv8t",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.24087087667926757, 0.2063549867883504, 0.5527741365323819]",2,9
+84,1,"@FaruqAdua @firstladyship Arrant fool and bastard. Boko haram, Fulani herdsmen, bandits and ISWAP are not war mongers. They are peace keepers. Thunder fire the person wey born you because they no get sense. Gworo munching parasite",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.04670968128484373, 0.22476544869872692, 0.7285248700164295]",2,9
+65,2,"RT @OduduwaR: Fulani herdsmen threat to ODUDUWA REPUBLIC and BIAFRA is like cockroach threatening Chicken. 
+You're dead while thinking of a�",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.7718337018166178, 0.0715118281482929, 0.15665447003508934]",0,9
+63,2,"U're high!""@seancaxton: Cc @fabQuetee *picksrace* RT @brownsugar_51: Cockroaches are attracted to yoruba girls""""",../labels/review/haaya_tweets_round_2_labeled.csv,"[0.3579398128865965, 0.32626615826218236, 0.3157940288512212]",0,9
+0,2,"@DaudaJibrin13 @BashirAhmaad Even ur name ""Dauda"" has explained that u don't av brain. Europeans thought Christians how to kidnap while Arabs thought Muslims how to do terrorism, killing n destruction n that's why they r problem all over the word today. Ewu",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.07132514520096225, 0.46989198028704077, 0.458782874511997]",1,9
+284,2,"During an argument with my friends over  retaliating on SA own coys in Nigeria as @MTNNG @DStvNg @GOtvNg @Shoprite_NG, I asked if any has ever picked a stone to throw at an aboki or any Muslim when Christians were killed in Northern States and there was a calm #SayNoToXenophobia",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8945352415889906, 0.04363224703010207, 0.061832511380907326]",0,9
+220,1,@renoomokri Mugu! When muslims empower theri mosque so as to bring people or convert them to worship their God. Why you as a Christian will not empower the Message to CD so it can reach people. Abi no be money them go use burn the CD.  #RenosNuggets #Mumunuggets😓,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.29643990099419404, 0.176532225182825, 0.527027873822981]",2,9
+35,1,"I keep hearing, Sunday igboho has an agenda, who doesn't have agenda? Buhari has an agenda, he signed railway to niger republic by closing yoruba borders. Kanu that want Biafra has an agenda. If igboho agenda is for Yoruba. It's a good thing. Na mumu person believe in one Nigeria",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.07371797973661075, 0.2962601456592877, 0.6300218746041015]",2,9
+90,1,"@DOT_G4 @Ozo_Njenje @okuwogaokunade Dodoyo ode, I guess PDP has been a SW party since 1999. Odenson, I also guess NPN was a SW party abi. Amunkumeko, your SE that voted for Atiku in the last election were in marriage with which region? Didirin, I also guess Atiku is from Yoruba tribe but not Fulani? The stats that",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8663804028050022, 0.05612086508742692, 0.07749873210757086]",0,9
+105,1,"@DanMinna @Zahrahmusa @SERAPNigeria @TrackaNG @NGRSenate @HouseNGR @officialEFCC @realFFK We're waiting to hear from FFK. Hope he won't come out to say Amaechi is a Hausa/Fulani, Islamic agent! And some 'olodos' will go to town with that.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.43608327402072455, 0.18392939673438888, 0.3799873292448865]",0,9
+260,1,"@budXcurious @Jadesola_S Dem be werey. I watched it yesterday. Channels should have brought 1 Hausa, Igbo and Yoruba senator on that seat so that we can all shame them together. I like Ali Ndume though",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8339019135407247, 0.05420197507494425, 0.111896111384331]",0,9
+250,1,@NigeriaInfoAbj there are many Yoruba people I knew that can speak Fulani and Hausa fluently. So that police man was suegbe.,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8586570782047945, 0.059381510867386425, 0.0819614109278191]",0,9
+185,1,"@GraceJo30910269 Hahahahaha igbayi aro t'arugbo n sukun oko, na now una sense come resetting? since when Igbo are struggle for Biafra, 
+Wehy don't you people keep been slaves under ordinary cows ""Malu"" iranko lasan lasan and keep dying",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.08302584378006206, 0.16824996462965436, 0.7487241915902836]",2,9
+339,0,"Who told Nigerian govt that cow rearing is for Fulanis ...huh ? Igbos can do that too....we ve wawa people in Enugu they understand cow business very well.
+...so oga,chill and leave that ur connotative grazing bill,
+Everybody stay on your own and do ur ethnic business peacefully.",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.3997881195042912, 0.15790279582439187, 0.4423090846713169]",2,9
+264,2,"@mr_sbs_ @biimarhscakes @gideon_adedapo 🤣🤣🤣🤣🤣🤣🤣🤣..... Why you delete the post.. Werey, u Don turn gay... @biimarhscakes star girl",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.5237690185657359, 0.19686833555828606, 0.279362645875978]",0,9
+161,2,"Una too dey shout.... Few days ago, a girl on this bird app called Uyo men ""Ashawo""
+
+Today, na runs girls and lesbian list of names comot...so, who be our problem now??
+
+I would say ""Uyo girls...."" But I know better https://t.co/2Jijchlo9f",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8425112754939159, 0.0616603409378595, 0.09582838356822451]",0,9
+235,0,Mumuni Kabiru Omar popularly known as MKO was finally posthumously declared as one of Nigeria's President after the unfortunate incident that saw his election in 1993 upturned. The Muslim Fulani Northern Dictator did this as he has been suspected to be a tribal bigot! https://t.co/BbsMZd7kvX,../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.36833779530876987, 0.14740264436267217, 0.4842595603285579]",2,9
+190,2,"WE SUPPORT TRUMP'S RECENT STATEMENT, SAYS AFENIFERE GROUP, CALLS BUHARI 'VEGETATIVE STATUS
+
+Me : Fine And Good!  Igbo Elders Ohanaeze ( Ndi Oshi Na Aturu), Tell Us Your Stand Now That Yoruba Elders Have Made Known Their Position On Buhari Being ""Lifeless""
+https://t.co/xT4XDN5RUz",../labels/review/ibrahim_tweets_multi_labeled.csv,"[0.8908810972195585, 0.047958495984509575, 0.0611604067959321]",0,9
+245,1,"@AdaojoV @UN @realDonaldTrump @MBuhari As a Christian I pray that God have mercy on your soul. 
+
+But as a Nigerian youth, na Ogun go kee u dia, u no go die beta bastard. 
+
+That money they paid u will put in a difficult situation.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.2006257316631975, 0.2719560193203535, 0.5274182490164488]",2,9
+160,1,RT @RKennedyob: To Hell to Nigeria.A fraudulent contraction. The kingdom of baboons and monkey. A parasite to the #Biafra Nation.#FreeNnamd…,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.06269891057078307, 0.22810977847931527, 0.7091913109499016]",2,9
+85,1,RT @Isaiahuba: https://t.co/nsUfUJRSOV The Hausa head boy in Imo state Gov House av spoken. #Biafrans one WORD4this IDIOT!!! #NnamdiKanu @N…,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.08717150761417315, 0.32749930351946993, 0.585329188866357]",2,9
+523,1,"@DailyPostNGR You are a fool !!!!
+Go deal with the bandit and herdsmen...
+Ode",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.05101814945003212, 0.46846743830045184, 0.4805144122495159]",2,9
+707,0,"@tigress_jnr @i_elkay @aisosaigiebor @A_Salkida @Darkl1ght3r Listen, In words N opposite
+Bikini/=puting on dress
+That lady cover ups= nakedness,  if u understand ul probably stop comparison off point, that lady is like a mask masquerade making islam look primitive.",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.2402915544881556, 0.2995774602359105, 0.4601309852759338]",2,9
+752,2,@yummygirl20 @Amakathefirst Music and looking at girls with big bum bum😭😭😭😭,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.8745930834727867, 0.04819817854066913, 0.07720873798654401]",0,9
+612,1,"RT @Austinesom: Girls out here hatin on Temi otedola, wit flimsy excuses dat shes a billionaire daughter. 
+Bitch just learn from her give d…",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.5785123010983375, 0.18123876016704651, 0.24024893873461606]",0,9
+401,0,"@djsheylex Some dumb ass girls will think this is real shit pfff...like wtf that's a balloon and she let all the air out don't be decive guys pls don't be decive 
+
+Ladies don't kill ursef takin a big dick in cus ah that's a huge lie
+Best 2020 trick HV ever seen 
+@Pornhub hope y'all can see",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.08059802669343483, 0.4090108748751623, 0.5103910984314028]",2,9
+196,0,@creativekimmm was right when i said to go to college A bitch is a female dog I'm not one School would make you a better person not racist,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.24756580360433528, 0.2651134546534345, 0.48732074174223017]",2,9
+260,1,@vanguardngrnews My headache and anger is that this is coming from a Yoruba man. What a very  perfect definition of bastard!,../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.08143800383087064, 0.31974308783920274, 0.5988189083299267]",2,9
+454,2,"😂😂😂😂😂😂😂😂 @AybeeOmari: Yoruba men lie.
+Tailors are liars.
+Yoruba tailors, Forget it, 
+You will never see your cloth again.""",../labels/review/luis_tweets_round_2_manu_labeled.csv,"[0.5211528492283442, 0.11794324469697233, 0.36090390607468337]",0,9
+691,1,"these media abi na amebo distribution corporations are really vultures.
+wow. 
+looking for dead meat anywhere and everywhere.
+sorry oh but we the gays are more alive now than ever.
+you call lesbian like its shame.
+but it is you 
+that has no honor.",../labels/review/haaya_extra_tweets_labeled.csv,"[0.048677209370011465, 0.2910633725636622, 0.6602594180663262]",2,9
+533,1,"RT @newsbreakngr: Christians, Pastors Call Us Idiots, Animals For Doing Our Job � Lagos FRSC Commander https://t.co/bmiDq6W7bk .@FRSCNigeria",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.9055834777587518, 0.04029690936262942, 0.05411961287861899]",0,9
+1043,2,RT @JBOY02675747: Disowning #IPOB will tell you how afraid they are about their masters #Fulani caliphate. https://t.co/RCoz9y2zRC,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.6221126124471981, 0.09337622386007328, 0.2845111636927286]",0,9
+1017,1,RT @Waspapping_: It�s inferiority complex that�s causing all these Hausa hatred we are seeing on the timeline.,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.8458475026133525, 0.04966885858561315, 0.10448363880103433]",0,9
+1235,2,"At least, we know what these ones are fighting for (even if it�s ingenuine)
+Please what are herdsmen fighting for? https://t.co/B77yboWVOb",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.8960649270406353, 0.039717898743958306, 0.06421717421540653]",0,9
+61,2,"@Aliyu22041996 @Neche201 @ShehuSani @UgwuonahChikod2 You're a Foolani Scum, what do you know about Igbo people and their heroes? Better don't talk what you don't know. Fool.",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.05285365463647808, 0.5148595003256706, 0.43228684503785125]",1,9
+1199,2,Very trueRT @TWEETORACLE: It is UNAFRICAN to be GAY,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.8768649764396368, 0.05059303695750267, 0.0725419866028607]",0,9
+1207,2,I heard a lady just discovered that her husband of three years is gay.... wtf,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.9032985764173374, 0.04295507107274094, 0.053746352509921824]",0,9
+1189,2,"Ladies,its not every time we ask u to visit, we want sex.We just want our neighbors to see us wit a lady to confirm,we re not GAY https://t.co/tnGZHmrlGf",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.8925704757556426, 0.04809638591893668, 0.059333138325420615]",0,9
+1209,2,RT @Fredderapman: If you be fine @boy too much them say you turn gay!,../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.8885758713777987, 0.048944854958798495, 0.06247927366340299]",0,9
+146,1,"Parasites,Pretenders and interlopers should stop poking their noses in the affairs of muslims #MURIC",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.06351934365298993, 0.2052683436933125, 0.7312123126536976]",2,9
+172,2,"#listeningto ""Earl Klugh, Southern Dog"" http://bit.ly/jbTvC1",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.9035599083491066, 0.041564267852395295, 0.05487582379849817]",0,9
+28,0,"Foolish talk""@Proud_EkitiGirl: You're just stupid b ""@OMG_itz_Henny: Females bleed for 5-7 days once a month and still be alive that's some",../labels/review/niyati_tweets_round_2_labeled_haaya.csv,"[0.09027634281508513, 0.5415196468314012, 0.3682040103535137]",1,9
+329,1,"RT @mrviruze: vultures are #feeding fat in #Buhari government in NIGERIA, persecutions of CHRISTIAN COMMUNITIES both woman and children by…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.16844538117524388, 0.15666374928733143, 0.6748908695374246]",2,9
+538,2,RT @MaziNnamdiKanu: To us the defence of the Eastern Region against marauding Fulani terrorists in the guise of herdsmen is of paramount im…,../labels/review/manu_tweets_round_2_labelled.csv,"[0.5839840072403539, 0.06967886440270078, 0.34633712835694525]",0,9
+291,2,@Lilsadiq05 @meenanyako @Raahmatuallah @RabiahJigo @aiishadahir @aishamukky @zainab_zesha @Zaraa_Jikantoro @maryambazzah @Rahma_sadau not every one who wear atamfa/kaftan and is from north is hausa/fulani or Muslim some are not hausa nor muslims but they whore the same type of cloth with us speaks our native lang but they have their own lang and religion a true hausa/fulani Muslim can't do this shit 💩,../labels/review/manu_tweets_round_2_labelled.csv,"[0.7931250593138157, 0.07115411089664712, 0.135720829789537]",0,9
+267,1,"wow, a female robbery slut stripped nacked in abuja, she is an igbo girl, http://t.co/0CsGz82t",../labels/review/manu_tweets_round_2_labelled.csv,"[0.613720441079269, 0.10186425354016831, 0.28441530538056253]",0,9
+548,2,@cazcassie_ Nna igbo girls love money 💵😂😂😂,../labels/review/manu_tweets_round_2_labelled.csv,"[0.8208646652885048, 0.053773044879021646, 0.12536228983247352]",0,9
+20,2,"RT @olusogaowoeye: Northern Alimanjiri beg for money on the streets,Southern Alimanjiri scramble for $5 from an Iranian scum.Imams in the n…",../labels/review/manu_tweets_round_2_labelled.csv,"[0.8842875954415432, 0.03653456893318973, 0.07917783562526697]",0,9
+1035,2,RT @pwajok_jane: Plateau state Governor @sblalong  could not send Police men when the Fulani herds men were brutalizing and killing his peo…,../labels/review/pedro_tweets_round_2_done.csv,"[0.8848912909802129, 0.038201954430753776, 0.0769067545890335]",0,9
+352,2,"@Dipolygabana Come see Hausas eat dat shit like its shawama
+Dats shit is disgusting aswear",../labels/review/pedro_tweets_round_2_done.csv,"[0.6715892761834261, 0.08529965372649488, 0.243111070090079]",0,9
+460,0,@BrynxyFarms @bubuigbo @GoziconC Big liar. Zik won in the East till he quit politics. He produced Mbakwe and Jim in 1979. Okadigbo never lost an election he contested as a person. Stop spreading rumors and lies built on your hatred for igbos.,../labels/review/pedro_tweets_round_2_done.csv,"[0.10035882240205521, 0.5857611683401741, 0.31388000925777054]",1,9
+571,0,RT @pali_xox: Wow Muslim men really be wearing shorts above their knees??? Smh sluts.,../labels/review/pedro_tweets_round_2_done.csv,"[0.12407685231991211, 0.1825250599739042, 0.6933980877061838]",2,9
+598,1,"@Asemero1011 @I_Am_marwa To hell with u son of a bitch.!! Never insult Buhari here, if u dare to, go and insult his at front of ur fada or ur fucking moda, and u say u r pure southern blood, who cares..? No matter Wat you'll die and become food to those things dat I'll not even set ma eye on dem, better",../labels/review/pedro_tweets_round_2_done.csv,"[0.05109311603246716, 0.3420705355267326, 0.6068363484408001]",2,9
+12,1,"River state is d most foolish n stupid state in Nigeria intens of election.Foolish politicians with foolish people living in a foolish land, I regret being a southerner.Continue killing urselves fools.",../labels/review/pedro_tweets_round_2_done.csv,"[0.05117164243941005, 0.24311513297359674, 0.7057132245869931]",2,9
+323,0,"@Bulamacartoons Dumb fool tagging Yoruba Yahoo..... Shey na OYINBO you dey fight for 🙄,
+Or OYINBO com complain for yr station.
+Your clansmen that parade the whole country killing and kidnapping just because of cow.
+U must be mentally derailled for posting this",../labels/review/pedro_tweets_round_2_done.csv,"[0.04428132188784941, 0.31759525976146924, 0.6381234183506814]",2,9
+68,1,"@lanthimos_fan Would rather watch the lesbian back passer, plus don’t need some of that La Fabrica scum 👍",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.2638722628027576, 0.193903316112595, 0.5422244210846474]",2,9
+216,1,"@emacofficial Omo see useless talk. Qurix received insults  upon insults o because that year admission  hard die. Nobe even now we dey see small admission for southern kaduna???
+
+Bastard get mind call person Bigot",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.05075132003234127, 0.4046852089674153, 0.5445634710002435]",2,9
+123,0,"@Gagzy_08 @MobilePunch Yet under him southern Kaduna people were murdered like cockroaches.
+See ehn, if that man ever becomes president Buhari will be a saint compared to him",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.10390819622555375, 0.3732753587338269, 0.5228164450406194]",2,9
+1145,2,"RT @amerix: Men,
+
+Your woman wants to feel your fearlessness and commanding demeanor.
+
+She may show resistance but that is a shit test.
+
+Sh…",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.8935590817854415, 0.05055905929268829, 0.05588185892186996]",0,9
+21,0,"@MrStanleyNwabia @akaebube I'm just smiling you pdp thinks Yoruba are stupid, zone national chairman to South south
+VP to SE and you zone SGF to where 14 millions plus voters are waiting which already got VP slot from the other party 
+You will never learn your lesson",../labels/review/manu_extra_tweets_nausheen_labeled.csv,"[0.06359222074475536, 0.3865180807009771, 0.5498896985542675]",2,9
